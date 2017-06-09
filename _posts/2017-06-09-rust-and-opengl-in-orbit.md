@@ -45,4 +45,4 @@ So I can draw nice circles now to represent my orbital bodies, and my compute lo
 
 In the next post I'll look at some of the other demo features: I.e. basic user interactions; zooming, panning, following bodies and perhaps orbital path rendering.
 
-If you fancy you can checkout and run the source yourself, find it on [github.com/alex-butler-games/prototype-orbit](https://github.com/alex-butler-games/prototype-orbit).
+If you fancy you can checkout and run the source yourself, find it at [github.com/alex-butler-games/prototype-orbit](https://github.com/alex-butler-games/prototype-orbit).
