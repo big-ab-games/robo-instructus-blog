@@ -1,5 +1,6 @@
 Alex Butler Gamedev Blog
 ========================
+View at [alex-butler-games.github.io](https://alex-butler-games.github.io/)
 
 ## Build
 Install node & ruby
