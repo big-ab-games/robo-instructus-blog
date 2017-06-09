@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -eu
+dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+today="$(date +%Y-%m-%d)"
+
+cd $dir/_drafts
+for draft in *.md; do
+  echo "_drafts/$draft -> _posts/$today-$draft"
+  mv $draft "../_posts/$today-$draft"
+done
