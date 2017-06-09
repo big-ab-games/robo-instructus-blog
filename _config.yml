@@ -1,1 +1,17 @@
 theme: jekyll-theme-midnight
+page_title: Devblog | Alex Butler Games
+title: Alex Butler Games
+description: Updates & insights on current projects, game design and programming
+
+defaults:
+- scope:
+    path: "" # all
+  values:
+    layout: default
+    author: Alex Butler
+    catagories: gamedev
+
+exclude:
+- node_modules
+- gulpfile.js
+- package.json

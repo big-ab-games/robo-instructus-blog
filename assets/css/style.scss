@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$grey: #9b9a9a;
+
+.wrapper, section, nav {
+  max-width: 850px !important;
+}
+
+section {
+  margin: 0;
+  padding: 20px 0;
+}
+
+#title {
+  margin: 0 !important;
+}
+
+#posts {
+  padding-top: 0;
+}
+
+.post-date {
+  font-size: 14px;
+  color: $grey;
+  float: right;
+}
+.inline-date {
+    color: $grey;
+    margin-right: 0.3em;
+}
