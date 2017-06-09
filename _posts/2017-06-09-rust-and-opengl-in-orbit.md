@@ -3,7 +3,7 @@ title: Rust And OpenGL In Orbit
 ---
 Hi there! My name is Alex Butler and until recently I was a senior enterprise programmer working in London mega-corps. I say 'until recently' because in April I decided to leave and try my hand at creating my very own PC games. In this post I'll show you one of my prototype efforts in the last couple of months; using [Rust](https://www.rust-lang.org) & [OpenGL](https://en.wikipedia.org/wiki/OpenGL) to render a somewhat interactive gravitational orbit sim.
 
-This post is going to be a bit technical I'm afraid since this is a prototype there isn't much else to it!. In future I'll be concentrating more on actual games with the maths pushed back into a dark corner.
+This post is going to be a bit technical I'm afraid since this is a prototype there isn't much else to it! In future I'll be concentrating more on actual games with the maths pushed back into a dark corner.
 
 ### Why Use Rust?
 I'm writing my own engine code *(yeah I know, what a silly billy)*, so I need a fast language with deterministic memory management. I also wanted to avoid C & C++. Rust while young, really fits the bill.
