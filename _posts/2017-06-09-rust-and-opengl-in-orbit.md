@@ -39,7 +39,7 @@ void main() {
 }
 ```
 
-Wow, learning [Pythagoras's theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) back is school wasn't for nothing after all! I can use a single cheeky matrix to perform any positioning and scaling of the individual bodies I want to render. I actually add a little alpha logic to the shader in the real code because I hate [aliasing](https://en.wikipedia.org/wiki/Aliasing), but it really isn't much more complex.
+Wow, learning [Pythagoras's theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem) back in school wasn't for nothing after all! I can use a single cheeky matrix to perform any positioning and scaling of the individual bodies I want to render. I actually add a little alpha logic to the shader in the real code because I hate [aliasing](https://en.wikipedia.org/wiki/Aliasing), but it really isn't much more complex.
 
 So I can draw nice circles now to represent my orbital bodies, and my compute logic is working so the bodies go round each other following gravitational simulation. Nice.
 
