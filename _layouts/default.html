@@ -45,11 +45,12 @@
         </a>
         <hr>
 
-        {% if page.author and page.date %}
-          <span class="post-date">by {{ page.author }} on {{ page.date | date: "%A %e-%b-%Y"}}</span>
-        {% endif %}
-        {% if page.title %}
-          <h2>{{ page.title }}</h2>
+
+        {% if page.title and page.author and page.date %}
+        <div class="flex-box">
+          <h2 class="post-title">{{ page.title }} </h2>
+          <div class="post-date">by {{ page.author }} on {{ page.date | date: "%A %e-%b-%Y"}}</div>
+        </div>
         {% endif %}
 
         {{ content }}

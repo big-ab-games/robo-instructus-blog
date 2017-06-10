@@ -22,10 +22,19 @@ section {
   padding-top: 0;
 }
 
+.flex-box {
+  display: flex;
+  flex-wrap: wrap
+}
+.post-title {
+  flex-grow: 99;
+  padding-right: 0.5em;
+}
 .post-date {
+  flex-grow: 1;
   font-size: 14px;
   color: $grey;
-  float: right;
+  padding: 0.5ex 0 1.5ex;
 }
 .inline-date {
     color: $grey;
