@@ -14,11 +14,11 @@ While Vulkan is shinier, OpenGL (I used 3.3) is currently best supported on all 
 ### The Concept
 The demo will be pseudo-gravitational bodies orbiting. This means I need to render some circles on the screen and move them around with some [gravity maths](https://en.wikipedia.org/wiki/Gravity#Newton.27s_theory_of_gravitation). I actually started modeling my data on the Earth and the Sun, but I ended up with a tennis ball about a mile away from a pea. So forget the real world, I'll be rolling my own gravitational constant of the Alexverse.
 
-![3 Orbital Circles](/assets/img/orbit-1.png "They move about in real life")
+![3 Orbital Circles](/assets/orbit/orbit-1.png "They move about in real life")
 
 The thing about OpenGL is, it's just really fond of triangles. To the point where if it isn't a triangle OpenGL is frankly not interested. To keep my rendering API happy I decided to render the circles you see above using a single triangle. Specifically, an incircle of an equilateral triangle.
 
-![Vertices](/assets/img/orbit-2.png "Yes I drew that, no I am not ashamed")
+![Vertices](/assets/orbit/orbit-2.png "Yes I drew that, no I am not ashamed")
 
 With a bit of geometry chops, we can work out that a radius 1 incircle will have co-ordinates:
 
