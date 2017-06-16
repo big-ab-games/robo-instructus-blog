@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 $grey: #9b9a9a;
+$wrap_width: 850px;
 
 .wrapper, section, nav {
-  max-width: 850px !important;
+  max-width: $wrap_width !important;
 }
 
 section {
@@ -43,4 +44,10 @@ section {
 
 video {
   margin-bottom: 1.7ex;
+}
+
+@media only screen and (max-width: $wrap_width) {
+  video {
+    width: 100%;
+  }
 }
