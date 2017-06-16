@@ -8,7 +8,7 @@ If you missed part 1 [read it here](/2017/06/09/rust-and-opengl-in-orbit.html).
 ### Moving About
 What I want is for left-clicks to make the cursor 'glued' to the world allowing me to drag around my view.
 
-<video src="/assets/orbit-p2/dragging.ogv" loop controls></video>
+<video src="/assets/orbit-p2/dragging.webm" loop controls></video>
 
 To achieve this I listen to the mouse movements when left-click is down and adjust the view center. The demo starts at *(0, 0)* so if you click and move the mouse down a little the origin will perhaps become *(0, 2.1)*.
 
@@ -17,7 +17,7 @@ A complexity of this is that the mouse events will give you movement in *pixels*
 ### Zooming In & Out
 Naturally I'd like mouse scrolls to change the zoom. So scrolling forward should bring the orbital bodies closer. At first this may seem trivial, have a zoom multiplier number and change it by an amount when the user scrolls.
 
-<video src="/assets/orbit-p2/bad-zoom.ogv" loop controls></video>
+<video src="/assets/orbit-p2/bad-zoom.webm" loop controls></video>
 
 However, this is kind of rubbish:
 1. Scrolls jumps seem too big when close up & too small when far away.
@@ -32,7 +32,7 @@ For all these issues we can look at somewhere that's done this better. I.e. [Goo
 #### Solving 1 & 2
 I addressed **1** by doubling/halving the zoom for each scroll, this is exponential increase/decrease provides a lot of movement when far away, and more subtle control closer up. For **2** when changing zoom look at where the cursor is, where it ends up and adjust the origin with the difference.
 
-<video src="/assets/orbit-p2/better-zoom.ogv" loop controls></video>
+<video src="/assets/orbit-p2/better-zoom.webm" loop controls></video>
 
 
 #### Solving 3: Smooth Transitions
@@ -47,6 +47,6 @@ To make the zoom feel *right* we need to abandon the previous zoom transition an
 
 After generalising my code to use any given easing function, and messing about with them (using elastic for zoom was fun) I ended up using the exponential ease out function.
 
-<video src="/assets/orbit-p2/easing-zoom.ogv" loop controls></video>
+<video src="/assets/orbit-p2/easing-zoom.webm" loop controls></video>
 
 Next week I'll look at rendering the orbital path of these bodies in nice curved lines.
