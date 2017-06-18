@@ -1,5 +1,6 @@
 ---
 title: Rust And OpenGL In Orbit
+preface: false
 ---
 Hi there! My name is Alex Butler and until recently I was a senior enterprise programmer working in London mega-corps. I say 'until recently' because in April I decided to leave and try my hand at creating my very own PC games. In this post I'll show you one of my prototype efforts in the last couple of months; using [Rust](https://www.rust-lang.org) & [OpenGL](https://en.wikipedia.org/wiki/OpenGL) to render a somewhat interactive gravitational orbit sim.
 
