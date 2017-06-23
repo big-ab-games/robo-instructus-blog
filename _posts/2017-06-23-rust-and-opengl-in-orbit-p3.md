@@ -45,3 +45,5 @@ If you have an issue running it, fairly likely as I've only tested it myself, ma
 
 ### Final Words
 I've trialled a bunch of concepts in this prototype that I will be carrying to future projects and eventually playable games. But apart from anything else I'd say this prototype was a very fun and inefficient way to generate a [favicon](https://en.wikipedia.org/wiki/Favicon).
+
+##### Comment on [twitter](https://twitter.com/alexbutlergames/status/878253690351607808) | [facebook](https://www.facebook.com/alexbutlergames/posts/1479791112108271) | [reddit](https://www.reddit.com/r/devblogs/comments/6j1gcs/that_guy_that_quit_his_job_to_make_games_this/)
