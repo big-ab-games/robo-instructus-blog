@@ -18,7 +18,7 @@ I'm going to brute force calculate what happens in the next 50 or so seconds. Cu
 The simplest way to implement was just to calculate it each frame. It only makes the compute frames, err 50,000 times slower... Well it'll probably be fine, how about rendering?
 
 ### Drawing the future
-Now I've computed some plot points I need to draw lines between them. This means figuring out the triangles I want to render on and getting a shader to draw lovely pixels on them. In order to fit in with my alpha-blending anti-aliasing approach used for the bodies I want to draw a line between the plots in some color and gradually fade the the color to transparent as we get towards the line thickness.
+Now I've computed some plot points I need to draw lines between them. This means figuring out the triangles I want to render on and getting a shader to draw lovely pixels on them. In order to fit in with my alpha-blending anti-aliasing approach used for the bodies I want to draw a line between the plots in some colour and gradually fade the the colour to transparent as we get towards the line thickness.
 
 A line between to points in space can be described by a linear [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve). The shader needs to figure out, based on the pixel position, how close is it to the Bézier line so it can choose an alpha value. It does this by testing points on the line until it can find the closest point, then the alpha (transparency) value will be high if close the line, low if not. Each fragment naturally does this in parallel, shaders are cool!
 
@@ -31,7 +31,7 @@ At this point I have lines, but by my frames & computes per second have crashed 
 
 To fix the compute problem I span up a new 'seer' thread that will asynchronously calculate the future points and communicate with the main compute thread without blocking it (ie slowing it down). It also continuously calculates points, rather than doing it and discarding every frame. This means the compute thread is no longer affected so much by path calculation, and my CPS sails into the green again. **Boom (1/2)**.
 
-I have too many points to render and actually they're super close to each other, more than they need to be for the lines to look curved. All I need to do is decide on a good minimum distance and filter out the points which are closer, filtering 50,000 points -> ~1000. ~~Boom (2/2)~~ Actually it's still slow, even filtering all these points, calculating distance and such, on the CPU is too slow per frame. I move the filtering to the 'seer' thread making it responsible for providing renderable points without blocking the main threads. Now the render thread has a manageable amount of points to draw. **Boom (2/2)**
+I have too many points to render and actually they're super close to each other, more than they need to be for the lines to look curved. All I need to do is decide on a good minimum distance and filter out the points which are closer, filtering 50,000 points -> ~1000. ~~Boom (2/2)~~ Actually it's still slow, even filtering all these points, calculating distance and such, on the CPU is too slow per frame. I move the filtering to the 'seer' thread making it responsible for providing renderable points without blocking the main threads. Now the render thread has a manageable amount of points to draw. **Boom (2/2)**.
 
 ### Curves in motion
 <video src="/assets/orbit-p3/curves-600k.webm" loop autoplay controls></video>
