@@ -37,8 +37,8 @@ I have too many points to render and actually they're super close to each other,
 <video src="/assets/orbit-p3/curves-600k.webm" loop autoplay controls></video>
 
 You can download and run these sexy curves on your very own PC:
-* [Download Linux Version](https://github.com/alex-butler-games/prototype-orbit/releases/download/0.1/prototype-orbit-linux-x86_64.zip)
-* [Download Windows Version](https://github.com/alex-butler-games/prototype-orbit/releases/download/0.1/prototype-orbit-windows-x86_64.zip)
+* [Download Linux Version](https://github.com/alex-butler-games/prototype-orbit/releases/download/0.1.1/prototype-orbit-0.1.1-linux-x86_64.zip)
+* [Download Windows Version](https://github.com/alex-butler-games/prototype-orbit/releases/download/0.1.1/prototype-orbit-0.1.1-windows-x86_64.zip)
 
 If you have an issue running it, fairly likely as I've only tested it myself, make sure you have an OpenGL 3.3 compatible GPU/driver and raise an issue [on the github](https://github.com/alex-butler-games/prototype-orbit/issues) so I can investigate it. Currently it seems to run a little slower on Windows.
 
