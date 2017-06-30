@@ -27,7 +27,7 @@ Puzzle games exist because of this simple truth. Again an important point is sol
 When programming with the proper tools/APIs I can manipulate the world, I can solve a problem inside that world.
 
 ### Mastering a skill is fun
-Learning something, getting better at it and seeing the benefits feel good. We see this in games apparently beloved for being *'hard'*. I my experience it hasn't been simply because the game is hard, it's that the systems can be mastered, and their puzzles are designed to require the player to master them. This ties together with solving a problem. I have a problem I can't solve, I get better at a skill, I can now solve the problem, boom satisfaction.
+Learning something, getting better at it and seeing the benefits feels good. We see this in games apparently beloved for being *'hard'*. In my experience it hasn't been simply because the game is hard, it's that the systems can be mastered, and their puzzles are designed to require the player to master them. This ties together with solving a problem. I have a problem I can't solve, I get better at a skill, I can now solve the problem, boom satisfaction.
 
 ![](/assets/code-in-game/mastery-is-fun.jpg "Super Meat Boy/Dark Souls - Mastering masterable systems is fun")
 
@@ -37,7 +37,7 @@ Undeniably, programming is a skill to be mastered, and solving a problem with co
 I want to make a game that puts these 3 together. Problems providing focus to master your tools, and create solutions. The mastery, the creation and the problem eliminated, all providing what we're after: Fun!
 
 ### Great, but...
-Coding & mathematics are esoteric to many. It feels like there is no *in* to allow you to learn it, so quick rewards to doing so. But these are things I think a game can address much more directly than real world coding can. After all these are puzzles designed to be solved. I think programming can be enjoyed by *anyone that wants in*.
+Coding & mathematics are esoteric to many. It feels like there is no *in* to allow you to learn it and no quick rewards to doing so. But these are things I think a game can address much more directly than real world coding can. After all these are puzzles designed to be solved. I think programming can be enjoyed by *anyone that wants in*.
 
 In fantasy fiction wizards are born into their rare mysterious talents, but in reality anyone can start down the arcane road.<br/> **So, do you want to cast spells?**
 
