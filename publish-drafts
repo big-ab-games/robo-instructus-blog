@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+## Moves all `*.md` files in _drafts/ -> _posts/ with todays date prepended to the file name
 
 set -eu
 dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
