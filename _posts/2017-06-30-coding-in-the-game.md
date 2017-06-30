@@ -17,7 +17,7 @@ The act of making your own stuff is enjoyable. This seems to be true even if you
 
 ![](/assets/code-in-game/creating-is-fun.jpg "Minecraft/Sim City 2000/The Settlers - Making stuff is fun")
 
-Coding itself is inherently creative. Given a set of tools you figure out how to achieve some goal, there may well be many different ways to solve a problem. Your solution will maybe be an unreadable mess, but it'll be *your* unreadable mess.
+Coding itself is inherently creative. Given a set of tools you figure out how to achieve some goal, there will be many different ways to solve a problem. Your solution will maybe be an unreadable mess, but it'll be *your* unreadable mess.
 
 ### Solving problems is fun
 Puzzle games exist because of this simple truth. Again an important point is solving puzzles is still fun even if the puzzle may not seem to be the ultimate problem. It's natural to feel a bit like a genius after solving an initially stumping problem, even if it actually wasn't a graceful proof for Fermat's last theorem. Even simple problems are satisfying to work through. Click through a level of Hexcells, it's fun even initially when it isn't actually hard. *Not match-3 games though, enjoying them is probably a disorder*.
