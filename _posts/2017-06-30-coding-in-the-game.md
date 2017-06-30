@@ -24,7 +24,7 @@ Puzzle games exist because of this simple truth. Again an important point is sol
 
 ![](/assets/code-in-game/solving-is-fun.jpg "Hexcells - Solving puzzles is fun... when I don't forget which mouse button does which action")
 
-When programming with the proper tools/APIs, I can manipulate the world, I can solve a problem inside that world.
+When programming with the proper tools/APIs I can manipulate the world, I can solve a problem inside that world.
 
 ### Mastering a skill is fun
 Learning something, getting better at it and seeing the benefits feel good. We see this in games apparently beloved for being *'hard'*. I my experience it hasn't been simply because the game is hard, it's that the systems can be mastered, and their puzzles are designed to require the player to master them. This ties together with solving a problem. I have a problem I can't solve, I get better at a skill, I can now solve the problem, boom satisfaction.
