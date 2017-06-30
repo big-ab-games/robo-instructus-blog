@@ -24,7 +24,7 @@ However, this is kind of rubbish:
 2. Scrolls only jump into & out of the center, they don't pay attention to where the mouse is. This doesn't feel natural.
 3. Why are scrolls jumping anyway? They should be smooth.
 
-For all these issues we can look at somewhere that's done this better. I.e. [Google maps](https://www.google.co.uk/maps/@30.1590487,-30.1284594,3z). The solutions are specific but feel so natural that I'd never thought about them specifically before.
+For all these issues we can look at somewhere that's done this better, e.g. [Google maps](https://www.google.co.uk/maps/@30.1590487,-30.1284594,3z). The solutions are specific but feel so natural that I'd never thought about them specifically before.
 1. Notice how zooming adjusts based on our distance from the ground. We can zoom out quickly to see the world, but also zoom just a little more in on Big Ben. So the zoom-factor changes based on our distance to the ground.
 2. Zooms move toward the cursor somewhat, or away when zooming out. More specifically the cursor remains 'glued' to the world position while zooming.
 3. The transitions in zoom are animated and don't simply jolt into each other. This can be important, as the transition helps the user track where their new view is.
