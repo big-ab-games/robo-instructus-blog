@@ -41,3 +41,5 @@ I want to make a game that puts these 3 together. Problems providing focus to ma
 Coding & mathematics are esoteric to many. It feels like there is no *in* to allow you to learn it, so quick rewards to doing so. But these are things I think a game can address much more directly than real world coding can. After all these are puzzles designed to be solved. I think programming can be enjoyed by *anyone that wants in*.
 
 In fantasy fiction wizards are born into their rare mysterious talents, but in reality anyone can start down the arcane road.<br/> **So, do you want to cast spells?**
+
+##### Comment on [twitter](https://twitter.com/alexbutlergames/status/880794135422263296) | [facebook](https://www.facebook.com/alexbutlergames/posts/1489197901167592) | [reddit](https://www.reddit.com/r/devblogs/comments/6kg978/that_guy_that_quit_his_job_to_make_games_coding)
