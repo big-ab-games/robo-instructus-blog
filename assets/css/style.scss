@@ -5,6 +5,7 @@
 
 $grey: #9b9a9a;
 $wrap_width: 850px;
+$narrow_width: 650px;
 
 .wrapper, section, nav {
   max-width: $wrap_width !important;
@@ -49,5 +50,18 @@ video {
 @media only screen and (max-width: $wrap_width) {
   video {
     width: 100%;
+  }
+}
+
+@media only screen and (max-width: $narrow_width) {
+  #title {
+    h1 {
+      font-size: 30px !important;
+      line-height: 30px !important;
+      margin-top: -7px;
+    }
+    p {
+      display: none
+    }
   }
 }
