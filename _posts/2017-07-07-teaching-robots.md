@@ -21,7 +21,10 @@ As you progress more dangers will block you. You'll get new abilities. You'll ne
 
 ### Progress
 Let me show you my current progress. **Please note this is a super early version & all art is placeholder!**
-<video src="/assets/2017-07-07/progress-600k.webm" controls></video>
+<video controls>
+  <source src="/assets/2017-07-07/progress-600k.webm" type="video/webm"/>
+  <source src="/assets/2017-07-07/progress-600k.mp4" type="video/mp4"/>
+</video>
 
 This video introduces:
 * *Badder* a programming language I invented for the game *(more on that later)*.
