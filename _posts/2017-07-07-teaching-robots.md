@@ -25,7 +25,7 @@ Let me show you my current progress. **Please note this is a super early version
 
 This video introduces:
 * *Badder* a programming language I invented for the game *(more on that later)*.
-* Visual program execution, we can see what bit of code is being evaluated. In addition to what is shown players can also change the execution speed, or pause it altogether.
+* Visual program execution, we can see what bit of code is being evaluated. In addition to what is shown, players can also change the execution speed, or pause it altogether.
 * Interlocking tile based level layouts rendered in isometric 2D. This perspective at least will stay, while the art can be replaced later.
 * Temporary pixel art from my very own hand, in particular **Placeholder Panda** fulfilling robot duties. I didn't have time to properly animate him, so he's currently always watching you.
 
