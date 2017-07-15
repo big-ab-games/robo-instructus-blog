@@ -42,6 +42,6 @@ So this gives me a nice simple way to design and save levels. And now we can see
 Btw the grey tiles you see in the video represent *unknown* tiles that could be anything.
 
 ### Up next
-I'm going to continue to cut corners in the art department, and focus on level and in-game API design (So *Placeholder Panda* is going to stick around for a while). For the demo I want a set of levels that teach the player the game, and provide a simple fun challenge that doesn't feel like busy work.
+I'm going to continue to cut corners in the art department, and focus on level and in-game API design (so *Placeholder Panda* is going to stick around for a while). For the demo I want a set of levels that teach the player the game, and provide a simple fun challenge that doesn't feel like busy work.
 
 ##### Comment on [twitter](https://twitter.com/alexbutlergames/status/885897456889757696) | [facebook](https://www.facebook.com/alexbutlergames/posts/1506285212792194) | [reddit](https://www.reddit.com/r/devblogs/comments/6na3ls/that_guy_that_quit_his_job_to_make_games/)
