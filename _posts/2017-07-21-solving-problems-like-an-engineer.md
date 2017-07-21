@@ -56,3 +56,5 @@ Did you also notice the visualization as it was running, the funny flickering hi
 I've successfully merged my Linux/XWayland support patches upstream so now can run the game properly in an X11 or Wayland session. I've also been working on improving my font/text rendering code to improve performance there as the game will be text heavy and I'm not totally satisfied with my current library's showing.
 
 Broadly my work continues onwards toward the playable alpha-demo, and everything I'm doing is about achieving that. Check back next Friday for more progress.
+
+##### Comment on [twitter](https://twitter.com/alexbutlergames/status/888413995283120130) | [facebook](https://www.facebook.com/alexbutlergames/posts/1514848191935896) | [reddit](https://www.reddit.com/r/devblogs/comments/6oogxx/that_guy_that_quit_his_job_to_make_games_solving/)
