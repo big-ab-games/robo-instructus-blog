@@ -31,7 +31,7 @@ We need to use the newly available `robo_scan()` to solve these. So we use the s
 
 <video src="/assets/2017-08-04/vid-2.mp4" controls></video>
 
-Nice. Notice how I can call my function *is_safe* both like `is_safe(robo_scan())` or like `robo_scan().is_safe()` this is true of all functions in badder (the in-game language programming language). You'll also notice in the next level simply running *robo_scan* isn't going to be enough, but we have a new tool. Can you solve it in your head already?
+Nice. Notice how I can call my function *is_safe* both like `is_safe(robo_scan())` or like `robo_scan().is_safe()` this is true of all functions in badder (the in-game programming language). You'll also notice in the next level simply running *robo_scan* isn't going to be enough, but we have a new tool. Can you solve it in your head already?
 
 Hold that thought for when you get your very own coding fingers on a build of the alpha.
 
@@ -39,6 +39,6 @@ The game is starting to appear a little more every week. Indeed, the core of the
 
 Of course, there remains much to do. I need to add nice error reporting, API & badder language tutorials, sand the edges off my font/code rendering, show a success screen & solutions stats, finalise my level & API design and add improved (though still placeholder) animations.
 
-So check back again next week for more progress on those, and hit me with any questions on reddit / facebook / twitter.
+So check back again next week for more progress on those, and hit me with any questions on reddit / twitter / facebook.
 
 ##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6rleot/robo_instructus_a_game_of_robot_engineering/) | [twitter](https://twitter.com/alexbutlergames/status/893500803406843905) | [facebook](https://www.facebook.com/alexbutlergames/posts/1531606803593368)
