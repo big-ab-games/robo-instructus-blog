@@ -41,4 +41,4 @@ Of course, there remains much to do. I need to add nice error reporting, API & b
 
 So check back again next week for more progress on those, and hit me with any questions on reddit / facebook / twitter.
 
-##### Comment on [reddit]() | [twitter]() | [facebook]()
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6rleot/robo_instructus_a_game_of_robot_engineering/) | [twitter](https://twitter.com/alexbutlergames/status/893500803406843905) | [facebook](https://www.facebook.com/alexbutlergames/posts/1531606803593368)
