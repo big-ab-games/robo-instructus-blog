@@ -17,3 +17,5 @@ exclude:
 - gulpfile.js
 - package.json
 - README.md
+- package-lock.json
+- publish-drafts
