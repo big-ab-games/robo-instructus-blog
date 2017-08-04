@@ -40,3 +40,5 @@ The game is starting to appear a little more every week. Indeed, the core of the
 Of course, there remains much to do. I need to add nice error reporting, API & badder language tutorials, sand the edges off my font/code rendering, show a success screen & solutions stats, finalise my level & API design and add improved (though still placeholder) animations.
 
 So check back again next week for more progress on those, and hit me with any questions on reddit/facebook/twitter.
+
+##### Comment on [twitter]() | [facebook]() | [reddit]()
