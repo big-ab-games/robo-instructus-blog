@@ -54,7 +54,11 @@
         {% endif %}
 
         {% if page.preface != false %}
-          {% include post-preface.html %}
+          {% if page.preface == 'robo' %}
+            {% include robo-preface.html %}
+          {% else %}
+            {% include post-preface.html %}
+          {% endif %}
         {% endif %}
 
         {{ content }}

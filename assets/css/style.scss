@@ -45,12 +45,7 @@ section {
 
 video {
   margin-bottom: 1.7ex;
-}
-
-@media only screen and (max-width: $wrap_width) {
-  video {
-    width: 100%;
-  }
+  width: 100%;
 }
 
 @media only screen and (max-width: $narrow_width) {
