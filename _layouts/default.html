@@ -27,26 +27,24 @@
     {% endif %}
   </head>
   <body>
-      <!-- <div id="header">
-        <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-          <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-          <li class="title">DOWNLOADS</li>
-        </nav>
-      </div> -->
-
     <div class="wrapper">
 
       <section class="main">
         <a href="/">
+          {% if page.big_logo %}
+          <img src="/assets/main/logo.png" class="big-logo"></img>
+          {% endif %}
           <div id="title">
-            <h1>{{ site.title }}</h1>
+            <h1>
+              {% if page.big_logo != true %}
+              <img src="/assets/main/logo-36h.png" class="small-logo"></img>
+              {% endif %}
+              {{ site.title }}
+            </h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
           </div>
         </a>
         <hr>
-
 
         {% if page.title and page.author and page.date %}
         <div class="flex-box">
@@ -54,7 +52,6 @@
           <div class="post-date">by {{ page.author }} on {{ page.date | date: "%A %e-%b-%Y"}}</div>
         </div>
         {% endif %}
-
 
         {% if page.preface != false %}
           {% include post-preface.html %}

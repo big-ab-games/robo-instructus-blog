@@ -1,6 +1,7 @@
 ---
 # enable liquid template
 preface: false
+big_logo: true
 ---
 I'm Alex Butler, in April 2017 I quit my job to start making my own games. I post gamedev progress & ideas here.
 <br/>I'm also on [twitter](https://twitter.com/alexbutlergames) & [facebook](https://www.facebook.com/alexbutlergames).

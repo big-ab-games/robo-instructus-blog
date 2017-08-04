@@ -64,4 +64,28 @@ video {
       display: none
     }
   }
+
+  .small-logo {
+    height: 32px !important;
+    margin-bottom: -5px !important;
+    padding-right: 0 !important;
+  }
+
+  .big-logo {
+    height: 100px !important;
+  }
+}
+
+.big-logo {
+  padding-bottom: 2ex;
+  display: block;
+  margin-top: -10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.small-logo {
+  height: 36px;
+  padding-right: 0.5ex;
+  margin-bottom: -3px;
 }
