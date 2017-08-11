@@ -7,7 +7,7 @@ I'm Alex Butler, in April 2017 I quit my job to start making my own games. I pos
 <br/>I'm also on [twitter](https://twitter.com/alexbutlergames) & [facebook](https://www.facebook.com/alexbutlergames).
 For my other code stuff see [github](https://github.com/alexheretic).
 
-Right now I'm developing robot engineering puzzle game **Robo Instructus**, read about it below.
+I'm developing robot engineering puzzle game **Robo Instructus**, read about it below.
 
 {% for post in site.posts limit:1 %}
 ##### Posted on {{post.date | date: "%A %e-%b-%Y"}}
