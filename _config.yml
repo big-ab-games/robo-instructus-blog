@@ -19,3 +19,6 @@ exclude:
 - README.md
 - package-lock.json
 - publish-drafts
+
+plugins:
+- jekyll-feed
