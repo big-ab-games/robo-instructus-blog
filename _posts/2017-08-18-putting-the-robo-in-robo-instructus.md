@@ -23,3 +23,5 @@ The effects for the duration of ***robo_detect_adjacent()*** & ***robo_scan()***
 I am aware the robot movement animation aren't very fluid, in my mind this can wait until the pre-release art overhaul. So I hope you can bear the jankiness for the time being, and in the alpha builds.
 
 In summary; more features nailed down for the first playable alpha, and I'll continue with that next week. Check back then for more progress. I'm getting there.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6uh8n9/robo_instructus_please_dont_laugh_too_much_at_my/) | [twitter](https://twitter.com/alexbutlergames/status/898508558320492545) | [facebook](https://www.facebook.com/alexbutlergames/posts/1551548658265849)
