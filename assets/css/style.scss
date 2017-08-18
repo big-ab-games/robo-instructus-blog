@@ -48,6 +48,11 @@ video {
   width: 100%;
 }
 
+.main-links {
+  text-align: center;
+  margin-top: -2.5ex;
+}
+
 @media only screen and (min-width: $narrow_width) {
   body {
     // tweak theme css base font-size
@@ -66,6 +71,10 @@ video {
     p {
       display: none
     }
+  }
+
+  .main-links {
+    margin-top: -1.5ex;
   }
 
   .small-logo {
