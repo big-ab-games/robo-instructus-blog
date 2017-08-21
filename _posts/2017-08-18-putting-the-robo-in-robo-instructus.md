@@ -5,7 +5,7 @@ title: Putting The "Robo" In Robo Instructus
 
 My work continues on feedback gatherin' playable alphin' code for this game of puzzlin' robot engineerin'.
 Ahem. This week I've made a nicely visual step by replacing our panda protagonist with an actual robot character who can even face more than one direction. I've also added animation effects for each API call.
-These new assets are *still* placeholder pixel art, but they're important as a information relay to players.
+These new assets are *still* placeholder pixel art, but they're important as an information relay to players.
 
 <p align="center">
   <img align="center" src="/assets/2017-08-18/robot.gif" alt="Come on, at least he looks like a robot now" />
