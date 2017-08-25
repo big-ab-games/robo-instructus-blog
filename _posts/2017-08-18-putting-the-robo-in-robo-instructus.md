@@ -8,7 +8,9 @@ Ahem. This week I've made a nicely visual step by replacing our panda protagonis
 These new assets are *still* placeholder pixel art, but they're important as an information relay to players.
 
 <p align="center">
-  <img align="center" src="/assets/2017-08-18/robot.gif" alt="Come on, at least he looks like a robot now" />
+  <img align="center"
+    src="/assets/2017-08-18/robot.gif"
+    title="Come on, at least he looks like a robot now" />
 </p>
 
 It's a robot! A robot rendered in authentic *Alex Butler* 32x36 pixel art. Say hello to our new placeholder hero. I'm aiming for *cuteness from primitivism* with my pixel art. So hopefully that's what you're getting from it, rather than that it's just *bad*.
