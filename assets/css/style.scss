@@ -18,6 +18,10 @@ section {
 
 #title {
   margin: 0 !important;
+
+  p {
+    margin-bottom: 0;
+  }
 }
 
 #posts {
@@ -100,4 +104,41 @@ video {
   height: 36px;
   padding-right: 0.5ex;
   margin-bottom: -3px;
+}
+
+#social-links {
+  $size: 28px;
+
+  text-align: center;
+  margin: 0 0 0.7em;
+
+  .social-link {
+    $font_size: $size * (23/36);
+
+    background: #888;
+    border-radius: 100%;
+    display: inline-block;
+    width: $size;
+    height: $size;
+    margin: 0 0.5em;
+
+    i.fa {
+      font-size: $font_size;
+      color: #111;
+      padding-top: $font_size / 3.3;
+    }
+    i.fa-rss {
+      padding-left: $font_size / 12;
+    }
+    i.fa-envelope-o {
+      position: relative;
+      top: -$font_size / 24;
+    }
+
+    &:hover {
+      background: #ccc;
+    }
+
+    transition: background-color 333ms linear;
+  }
 }

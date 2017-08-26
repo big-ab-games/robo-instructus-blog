@@ -14,6 +14,7 @@
 
     <title>{{ site.page_title }}</title>
     <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <!-- <script src="{{ '/assets/js/respond.js' | relative_url }}"></script> -->
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -51,13 +52,24 @@
             <p>{{ site.description | default: site.github.project_tagline }}</p>
           </div>
           {% if page.big_logo %}
-          <h5 class="main-links">
-            <a href="https://twitter.com/alexbutlergames">twitter</a>
-            |
-            <a href="https://www.facebook.com/alexbutlergames">facebook</a>
-            |
-            <a href="/feed.xml">rss</a>
-          </h5>
+          <div id="social-links">
+            <a class="social-link" title="Visit our facebook page"
+              href="https://www.facebook.com/alexbutlergames">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+            <a class="social-link" title="Follow our twitter feed"
+              href="https://twitter.com/alexbutlergames">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+            <a class="social-link" title="Subscribe to the RSS feed"
+              href="http://blog.roboinstruct.us/feed.xml">
+              <i class="fa fa-rss" aria-hidden="true"></i>
+            </a>
+            <a class="social-link" title="Send us an email"
+              href="mailto:alex@roboinstruct.us">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </div>
           {% endif %}
         </a>
         <hr>
