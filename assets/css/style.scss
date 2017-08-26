@@ -106,6 +106,13 @@ video {
   margin-bottom: -3px;
 }
 
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  // webkit only
+  #social-links > .social-link > i.fa {
+    padding-top: 7px !important;
+  }
+}
+
 #social-links {
   $size: 28px;
 
