@@ -22,7 +22,7 @@ In a way this is an edge case, but an important one. The in-game language, *badd
 ### Scrolling
 Another way mischievous programmers (*wrapscallions*, if you will) annoy text rendering windows is by writing too many lines of code. Most programmers prefer to see the code they're writing, so I've added scrolling.
 
-<video src="/assets/2017-09-01/scrolling.mp4" controls loop></video>
+<video src="/assets/2017-09-01/scrolling.mp4" controls loop autoplay></video>
 
 I went for a minimalist auto-hiding scroll bar. You scroll with the mouse wheel, or cursor movement. It represents the size of the current view and pretty much works as you would expect, with the bar rendered as a single OpenGL quad.
 
