@@ -6,6 +6,7 @@
 $grey: #9b9a9a;
 $wrap_width: 850px;
 $narrow_width: 650px;
+$youtube_embed_width: 600px; // + 40 from padding
 
 .wrapper, section, nav {
   max-width: $wrap_width !important;
@@ -57,6 +58,28 @@ video {
   margin-top: -2.5ex;
 }
 
+.video-wrap {
+  text-align: center;
+  margin-bottom: 1.7ex;
+}
+
+@media only screen and (max-width: $youtube_embed_width) {
+  .video-wrap {
+  	position: relative;
+  	padding-bottom: 56.25%; /* 16:9 */
+  	padding-top: 25px;
+  	height: 0;
+  }
+  .video-wrap iframe {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  }
+}
+
+
 @media only screen and (min-width: $narrow_width) {
   body {
     // tweak theme css base font-size
@@ -74,6 +97,11 @@ video {
     }
     p {
       display: none
+    }
+    iframe {
+        max-width: 100% !important;
+        width: auto !important;
+        height: auto !important;
     }
   }
 

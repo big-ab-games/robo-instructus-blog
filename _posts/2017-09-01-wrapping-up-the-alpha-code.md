@@ -13,7 +13,7 @@ Code wrapping is what happens when terrible programmers write lines that are too
 
 In a way this is an edge case, but an important one. The in-game language, *badder*, does not support explicit line splitting for simplicity. So nice visual wrapping is actually necessary, and this is why I've made sure it's in the alpha.
 
-<div style="text-align: center">
+<div class="video-wrap">
   <iframe width="560" height="315"
     src="https://www.youtube-nocookie.com/embed/hk8LoHqHkGI?rel=0&amp;start=24"
     frameborder="0" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ Another way mischievous programmers (*wrapscallions*, if you will) annoy text re
 
 I went for a minimalist auto-hiding scroll bar. You scroll with the mouse wheel, or cursor movement. It represents the size of the current view and pretty much works as you would expect, with the bar rendered as a single OpenGL quad.
 
-<div style="text-align: center">
+<div class="video-wrap">
   <iframe width="560" height="315"
     src="https://www.youtube-nocookie.com/embed/RXhu26jEmZY?rel=0"
     frameborder="0" allowfullscreen></iframe>
