@@ -50,3 +50,5 @@ loop { // game loop
 I've also made performance improvements and fixes to my glyph rendering crate [gfx_glyph](https://github.com/alexheretic/gfx-glyph) this week.
 
 So the Robo Instructus first alpha continues to shape up. Are you ready to help me test it? As ever, if you like reading about the game or want to help me out, head over to [facebook](https://www.facebook.com/alexbutlergames) or [twitter](https://twitter.com/alexbutlergames) and like/follow/comment. Doing this will really help me build the buzz for this engineering puzzler.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6yugy6/robo_instructus_adding_performance_statistics_how/) | [twitter](https://twitter.com/alexbutlergames/status/906133079705694211) | [facebook](https://www.facebook.com/alexbutlergames/posts/1584201418333906)
