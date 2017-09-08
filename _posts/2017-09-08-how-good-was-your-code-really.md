@@ -23,7 +23,7 @@ I had initially left copy-paste functionality off my alpha features, but I've de
 As a huge beneficiary of amazing open source code (as we all are really) I'm keen to contribute where I can. While Robo Instructus itself is closed source, the general purpose parts I develop along the way I will actively open up & shove on github. Since I'm developing Robo Instructus in [rust](https://www.rust-lang.org), this mean rust crates.
 
 I have a few projects you can find [on github](https://github.com/alexheretic). Highlighting one of the simpler ones; I've recently added a helper for reporting frame rates in a convenient way to my rust library [spin_sleep](https://github.com/alexheretic/spin-sleep).
-This tiny crate could be useful for FPS reporting in anyone's rust games & experiments, I'm using it calculate & update compute & frame rates in Robo Instructus.
+This tiny crate could be useful for FPS reporting in anyone's rust games & experiments, I'm using it to calculate & update compute & frame rates in Robo Instructus.
 
 ```rust
 // rust
