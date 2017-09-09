@@ -3,13 +3,13 @@ preface: robo
 ---
 
 So you finished the level, *welly welly done done*. **But was you solution really any good?**
-<br/>This week brings 'Level Complete' dialogs and solution performance statistics to Robo Instructus. Now you'll see just how bad your code is compared to Elizabeth's.
+<br/>This week brings 'Level Complete' dialogs and solution performance statistics to Robo Instructus. Now you'll see just how bad your code is compared with Elizabeth's.
 
 ![](/assets/2017-09-08/level-complete-screen.png "Stats!")
 
 The current stats represent the time it took to complete this levels, that is the total of all the variants until the end. Moving about, scanning and all the rest have a cost - they take time. Clearly we'd like to take as little time as possible.
 
-By gathering & exposing these I can build in auto comparisons with your best scores, your mates' best and the world's best!
+By gathering & exposing these I can build in auto-comparisons with your best scores, your mates' best and the world's best!
 I could also build in some fixed targets as encouragements to optimise. For the alpha builds, however, it'll just be the numbers. Staring at you. Asking to be smaller.
 
 The stats themselves are deterministic & based on your calls to the ***robo_**** APIs, so changing the speed of execution, robot movement, or pausing the code will *not* affect the outcome.
@@ -17,10 +17,11 @@ The stats themselves are deterministic & based on your calls to the ***robo_****
 <video src="/assets/2017-09-08/level-complete.mp4" controls loop autoplay></video>
 
 ### Clipboard
-I had initially left copy-paste functionality off my alpha features, but I've decided this will be too annoying in it's absence. I mostly boshed out the code yesterday anyway, so not a huge deal after all. This should be ready next week.
+I had initially left copy-paste functionality off my alpha features, but I've decided its absence will be too annoying. I mostly boshed out the code yesterday anyway, so not a huge deal after all. This should be ready next week.
 
 ### Open source
-As a huge beneficiary of amazing open source code (as we all are really) I'm keen to contribute where I can. While Robo Instructus itself is closed source, the general purpose parts I develop along the way I will actively open up & shove on github. Since I'm developing Robo Instructus in [rust](https://www.rust-lang.org), this mean rust crates.
+As a huge beneficiary of amazing open source code (as we all are really) I'm keen to contribute where I can. While Robo Instructus itself is closed source, the general purpose parts I develop along the way I will actively open up & shove on github. 
+Since I'm developing Robo Instructus in [rust](https://www.rust-lang.org), this mean *rust crates*.
 
 I have a few projects you can find [on github](https://github.com/alexheretic). Highlighting one of the simpler ones; I've recently added a helper for reporting frame rates in a convenient way to my rust library [spin_sleep](https://github.com/alexheretic/spin-sleep).
 This tiny crate could be useful for FPS reporting in anyone's rust games & experiments, I'm using it to calculate & update compute & frame rates in Robo Instructus.
