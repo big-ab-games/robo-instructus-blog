@@ -36,3 +36,5 @@ I've pretty much wiped everything off my *alpha-1-todo-list*, everything except 
 
 **If you'd like to help me test the very first version please get into contact using one of the methods on the [front page](/)**.
 *It's the little grey circles near the top. Did you notice they're not even images. They're scalable glyphs on a css-ed background. What a bloody hero huh?!*
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/70ab0i/robo_instructus_copy_pasta_and_error_linguine/) | [twitter](https://twitter.com/alexbutlergames/status/908703198877224960) | [facebook](https://www.facebook.com/alexbutlergames/posts/1594003444020370)
