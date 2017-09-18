@@ -15,7 +15,7 @@ Since I'm a man of the people I want to support this style of development and re
 
 <video src="/assets/2017-09-15/error-highlighting.mp4" controls loop autoplay></video>
 
-I actually have a lot of plans for errors in Robo Instructus. Partly because I have a fetishistic hankering for good errors messages, and believe them to be a mark of quality software, but also because I think in-game errors could be a chance to introduce a little humour to an annoying situation.
+I actually have a lot of plans for errors in Robo Instructus. Partly because I have a fetishistic hankering for good error messages, and believe them to be a mark of quality software, but also because I think in-game errors could be a chance to introduce a little humour to an annoying situation.
 I was thinking on creating an AI character as the in-game *compiler*. More on that later.
 
 For now I'll just try to make them useful for all the errors the alpha crops up. In fact, telemetry to gather such things will be an important addition when I open up the alpha to all takers.
@@ -27,7 +27,7 @@ This functionality is mostly needed in the alpha to copy parts of solutions from
 
 <video src="/assets/2017-09-15/select-copy-paste.mp4" controls loop autoplay></video>
 
-For the very first alpha it'll be limited to keyboard selection only, boooooo. But cheer up, I'll add mouse stuff soon after, I'm not a total vimvangelist.
+For the very first alpha it'll be limited to keyboard selection only, boooooo. But cheer up, I'll add mouse stuff soon after, I'm not a total [vimvangelist](https://en.wikipedia.org/wiki/Vim_(text_editor)).
 
 I'll also be adding much more sophisticated code management systems to the game, I'm envisioning versioned user-libraries that you can add to your solutions. I imagine alpha testers will be full of ideas on this.
 
