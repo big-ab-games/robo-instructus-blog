@@ -25,3 +25,5 @@ Clarity of this kind of information is really important. The in-game tutorials &
 Once I'm happy that the tutorials are implemented and make sense, the alpha will be ready for testers! If all goes smoothly that should be ready in the next week or two.
 
 **If you'd like to help me test the incoming very first version please get into contact using one of the methods on the [front page](/)**.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/71q4ra/robo_instructus_story_and_tutorials/) | [twitter](https://twitter.com/alexbutlergames/status/911176780681183233) | [facebook](https://www.facebook.com/alexbutlergames/posts/1601909923229722)
