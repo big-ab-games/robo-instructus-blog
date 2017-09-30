@@ -25,7 +25,10 @@ I've actually designed pretty much all aspects of the game to support dynamic si
 ### A peek at development
 Why don't we zoom out the normal movie a bit and see my dev environment. Lets look at how I'm writing these story/tutorial pages, and how the auto sizing is going.
 
-<video src="/assets/2017-09-29/info-development.mp4" controls autoplay loop></video>
+<video controls autoplay loop>
+  <source src="/assets/2017-09-29/info-development.webm" type="video/webm">
+  <source src="/assets/2017-09-29/info-development.mp4" type="video/mp4">
+</video>
 
 *Note: The big red crosses are just images I haven't added yet.*
 
