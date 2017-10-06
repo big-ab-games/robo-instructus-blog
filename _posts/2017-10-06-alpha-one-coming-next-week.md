@@ -17,7 +17,7 @@ Specifically this week I've added animated image support to show moving examples
 
 <video src="/assets/2017-10-06/info-animated.mp4" controls loop autoplay></video>
 
-I've also polished the scaling support I mentioned yesterday. I've added a nice feature to auto-zoom onto smaller levels and out of larger levels. We should support almost any resolution and aspect ratio now fairly well. I should be able to get this perfect during the alpha stage.
+I've also polished the scaling support I mentioned yesterpost. I've added a nice feature to auto-zoom onto smaller levels and out of larger levels. We should support almost any resolution and aspect ratio now fairly well. I should be able to get this perfect during the alpha stage.
 
 ### Some last few bits
 I do have a couple of things to clean up before giving over the alpha. I have a little testing to make sure everything is redistributable and a little Windows specific testing to match my Linux development.
