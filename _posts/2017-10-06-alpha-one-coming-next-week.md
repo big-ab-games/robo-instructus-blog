@@ -23,3 +23,5 @@ I've also polished the scaling support I mentioned yesterday. I've added a nice 
 I do have a couple of things to clean up before giving over the alpha. I have a little testing to make sure everything is redistributable and a little Windows specific testing to match my Linux development.
 
 For those of you content to wait until the public alpha it will be coming a little later, all the better from the private alpha improvements. So hold tight.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/74od7h/robo_instructus_alpha_one_coming_next_week/) | [twitter](https://twitter.com/alexbutlergames/status/916324239132815360) | [facebook](https://www.facebook.com/alexbutlergames/posts/1616812611739453)
