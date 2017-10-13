@@ -28,7 +28,7 @@ For example in alpha-1.1 the first level will be a single variant, then the next
 ### Bugs
 One piece of good news is not many bugs were found. In general alpha-1 performed exactly as designed. And it's the design that must improve!
 
-One thing a few people reported was high CPU use in Windows. This was caused by lots of spinning to ensure accurate deltas in the game's compute and render loops. I've did a little work improving this in windows and the CPU issues should be gone in the next release.
+One thing a few people reported was high CPU use in Windows. This was caused by lots of spinning to ensure accurate deltas in the game's compute and render loops. I've done a little work improving this in windows and the CPU issues should be gone in the next release.
 
 ### Alpha-1.1
 I'll be  releasing **alpha-1.1** next week.
