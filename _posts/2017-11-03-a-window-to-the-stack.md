@@ -25,3 +25,5 @@ Until now the game has only offered fullscreen rendering, from *alpha-1.4* Robo 
 I think the game will be a good fit for windowed as I often go for maximized-windowed mode when playing puzzle games. Of course, the fullscreen option is still there. I may investigate moving that to windowed-fullscreen later, as it may provide benefits _we'll see_.
 
 *If you fancy being a part of Robo Instructus' alpha testing get into contact with me using one of the methods on the [front page](/).*
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7ajxqq/robo_instructus_a_window_to_the_stack_rendering/) | [twitter](https://twitter.com/alexbutlergames/status/926465112063533057) | [facebook](https://www.facebook.com/alexbutlergames/posts/1653412114746169)
