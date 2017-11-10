@@ -15,3 +15,5 @@ It's another small piece of the puzzle providing clarity and ease when looking u
 As I'm on holiday a bunch of this and next week progress is a little slower, this feature is still baking. So hold on and look out for this in the next alpha!
 
 *If you fancy being a part of Robo Instructus' alpha testing get into contact with me using one of the methods on the [front page](/).*
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7c0i9c/robo_instructus_a_reference_for_humans/) | [twitter](https://twitter.com/alexbutlergames/status/928944396745216000) | [facebook](https://www.facebook.com/alexbutlergames/posts/1664012297019484)
