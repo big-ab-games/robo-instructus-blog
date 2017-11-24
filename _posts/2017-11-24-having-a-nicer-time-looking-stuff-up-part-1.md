@@ -17,3 +17,5 @@ As mentioned this is a small but significant step towards a better experience le
 So look forward to that and in the meantime enjoy this iterative improvement.
 
 ![](/assets/2017-11-24/fun-summary.gif)
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7f8dj6/robo_instructus_having_a_nicer_time_looking_stuff/) | [twitter](https://twitter.com/alexbutlergames/status/934090002396536832) | [facebook](https://www.facebook.com/alexbutlergames/posts/1685326374888076)
