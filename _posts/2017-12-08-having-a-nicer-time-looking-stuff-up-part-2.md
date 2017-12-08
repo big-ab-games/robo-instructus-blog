@@ -20,3 +20,5 @@ Alpha testers please give this a spin and let me know what you think!
 
 ### Coming up
 With the reference implemented I can regroup my thoughts and move to the next significant improvement to the game. Expect new stuff next week.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7if06y/robo_instructus_having_a_nicer_time_looking_stuff/) | [twitter](https://twitter.com/alexbutlergames/status/939126099606372352) | [facebook](https://www.facebook.com/alexbutlergames/posts/1703468516407195)
