@@ -27,3 +27,5 @@ I've also want to improve the feedback & clarity of the _robo_xyz_ functions. I 
 I'll keep working on effects for the other functions too, I'm convinced they help in visualizing what's happening. If I do a decent job with them they'll help make the game look a little more interesting too.
 
 I'll have more to show off next week.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7k0zwc/robo_instructus_introducing_new_game_solution/) | [twitter](https://twitter.com/alexbutlergames/status/941716060805398528) | [facebook](https://www.facebook.com/alexbutlergames/posts/1711479208939459)
