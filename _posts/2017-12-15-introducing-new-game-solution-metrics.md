@@ -10,7 +10,7 @@ To find out how good a solution is the game already tracks how fast it is. Fresh
 
 ### New metrics
 
-**Solution size** is roughly the size of your code. It isn't lines of code though, instead it's measured in nodes, kinda one per node on the abstract syntax tree. Ie one per expression/statement. Trivial nodes are ignored, ie number literals and assignment _(so naming your numbers won't affect the score)_. It's really meant to be proportional to the grace of the code. A lower score is better!
+**Solution size** is roughly the size of your code. It isn't lines of code though, instead it's measured in nodes, kinda one per node on the abstract syntax tree. I.e. one per expression/statement. Trivial nodes are ignored, e.g. number literals and assignment _(so naming your numbers won't affect the score)_. It's really meant to be proportional to the grace of the code. A lower score is better!
 
 **Run size** represents the how much code had to be executed before the level was completed. Lots of repeated computation will bump this way above the _solution size_. This number is the computation cost of the solution. Again a lower score is better!
 
