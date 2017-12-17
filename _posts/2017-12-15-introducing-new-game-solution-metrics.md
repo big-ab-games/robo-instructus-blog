@@ -20,7 +20,7 @@ Really the fun will start when players can properly compare scores to each other
 
 ### Improved robo effects
 
-I've also want to improve the feedback & clarity of the _robo_xyz_ functions. I thinking effects that highlight the relevant tiles would help people learning how the game works, or fixing & improving their algorithms. I bundled a new effect for _robo_scan()_ in the latest alpha, but I still need to work on it and the others to make sure they don't look too naff.
+I also want to improve the feedback & clarity of the _robo_xyz_ functions. I'm thinking effects that highlight the relevant tiles would help people learn how the game works, or fixing & improving their algorithms. I bundled a new effect for _robo_scan()_ in the latest alpha, but I still need to work on it and the others to make sure they don't look too naff.
 
 <video src="/assets/2017-12-15/scan-lines.mp4" loop autoplay></video>
 
