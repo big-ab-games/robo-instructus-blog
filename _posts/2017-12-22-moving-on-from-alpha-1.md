@@ -16,7 +16,7 @@ I released the first alpha to a small group of testers in October. I'd worked ha
 The good news is that this has been a success. While bugs have been encountered so far the game has been a pretty stable reflection of my intent. That's really great, as I'm using a fairly young language _(rust)_. More importantly, I'm convinced the idea of the game works and will be a very fun and unique challenge _for some_.
 
 ### Staying motivated
-One downside of polish work is it can be a little dull for me. That may not sound important, but staying motivated is the _most important_ thing for a solo dev. I've had to shove my plans for the game to one side while I try to improve the first slice. Moving on to finishing the game is about refreshing my view of the project and revitalising my efforts to complete this project.
+One downside of polish work is it can be a little dull for me. That may not sound important, but staying motivated is the _most important_ thing for a solo dev. I've had to shove my plans for the game to one side while I try to improve the first slice. Moving on to finishing the game is about refreshing my view of the project and revitalising my efforts to complete it.
 
 The objective of _alpha-2_ is to finish the rest of the game's puzzles and plan the plot. I'll then move onto polishing the final experience, marketing and finally releasing the game.
 
