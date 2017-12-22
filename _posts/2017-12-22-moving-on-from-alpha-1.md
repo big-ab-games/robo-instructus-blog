@@ -31,3 +31,5 @@ All this means the pace of releases is going to slow a little. Today I'll releas
 <video src="/assets/2017-12-22/alpha-1-tile-effects.mp4" controls loop autoplay></video>
 
 I may release fixes and tweaks, but I won't be releasing any new features until _alpha-2_ starts looking healthy and is ready to be tested for real. **Onwards to alpha-2!**
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7li797/robo_instructus_moving_on_from_alpha1/) | [twitter](https://twitter.com/alexbutlergames/status/944231786724413440) | [facebook](https://www.facebook.com/alexbutlergames/posts/1718920171528696)
