@@ -15,3 +15,5 @@ They work a bit like this, _with red colouring taking the place of proper art an
 So now you can get launched about the level. Notice the charge time is long enough to be able to move onto and off from the tile, but not long enough to mess about. The tiles will have a unique _robo_scan()_ code and later you'll find tools to help figure out if the trip will end in untimely robo-death.
 
 You may need special behaviour if you want to make sure to use the launcher and maybe even special-er if you want to make sure _not_ to. What if an unknown tile turns out to be a launcher... Should be fun times!
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7rj43j/robo_instructus_making_the_jump/) | [twitter](https://twitter.com/alexbutlergames/status/954377187070799877) | [facebook](https://www.facebook.com/alexbutlergames/posts/1749523391801707)
