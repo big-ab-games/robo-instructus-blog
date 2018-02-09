@@ -18,3 +18,5 @@ How about ***robo_detect_3()*** and the launcher tiles:
 <video src="/assets/2018-02-09/use-it.mp4" loop controls></video>
 
 My work continues on new tools and levels, more info coming soon.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7wfe3c/robo_instructus_asking_for_a_little_more/) | [twitter](https://twitter.com/alexbutlergames/status/962026573418332160) | [facebook](https://www.facebook.com/alexbutlergames/posts/1773614012725978)
