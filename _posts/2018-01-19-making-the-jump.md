@@ -10,7 +10,7 @@ The 'launcher' tiles throw robots about the levels. When a weight is on the tile
 
 They work a bit like this, _with red colouring taking the place of proper art and a quick and dirty jump animation_:
 
-<video src="/assets/2018-01-19/launcher.mp4" loop autoplay></video>
+<video src="/assets/2018-01-19/launcher.mp4" loop autoplay controls></video>
 
 So now you can get launched about the level. Notice the charge time is long enough to be able to move onto and off from the tile, but not long enough to mess about. The tiles will have a unique _robo_scan()_ code and later you'll find tools to help figure out if the trip will end in untimely robo-death.
 
