@@ -57,3 +57,5 @@ Yes I've been developing the game too. Last week I finished an arc of new, post-
 This level is a fun one. You're really going to have your game on.
 
 Next I'll spend some time polishing the new stat functionality and continue designing new levels & tools.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7zvng5/robo_instructus_stats_in_the_cloud/) | [twitter](https://twitter.com/alexbutlergames/status/967334949127847936) | [facebook](https://www.facebook.com/alexbutlergames/posts/1790377374382975)
