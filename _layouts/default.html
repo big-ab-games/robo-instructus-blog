@@ -84,6 +84,8 @@
         {% if page.preface != false %}
           {% if page.preface == 'robo' %}
             {% include robo-preface.html %}
+          {% else if page.preface == 'robo-2' %}
+            {% include robo-2-preface.html %}
           {% else %}
             {% include post-preface.html %}
           {% endif %}
