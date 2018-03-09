@@ -1,5 +1,6 @@
 ---
 preface: robo
+title: Having a Nicer Time Looking Stuff Up
 ---
 
 Last time I was talking about the next feature for Robo Instructus [_A Reference For Humans_](/2017/11/10/a-reference-for-humans.html). That's landing today in alpha-1.5. This is just step 1 though, more improvements to this area are incoming.
