@@ -18,3 +18,5 @@ My plans are all very well and good, but I'm still in progress actually implemen
 I've also done a little optimization work this week as I noticed the game was starting to creep up in CPU usage at idle. I've also some fixes to the graph rendering, but no release this week. I'll save up the smaller changes for another _alpha-1.x_ release sometime later.
 
 Once the final levels are designed and working I can finally get the final art done. Replacing the tile & robot artwork unlocks being able to promote the game much more. Trailer, launch site, widening the alpha-testing group much more to polish the experience. I'm really looking forward to hitting the next stage & seeing Robo Instructus in it's new skin!
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/839401/robo_instructus_robo_concurrency/) | [twitter](https://twitter.com/alexbutlergames/status/972182985452785665) | [facebook](https://www.facebook.com/alexbutlergames/posts/1806723232748389)
