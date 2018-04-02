@@ -13,3 +13,5 @@ The bulk of the concurrency refactor is now complete. A lot of the previous assu
 I've had to stash a lot of exciting ideas for the game so I can finish it in a timely manner and that it won't be too long. It's already stuffed with lots of stuff, and I'd rather it was short, sweet & cheap than too long. My current aim for the game is something like 6-8 hours of entertainment for the very quick. However, this will need a lot of play-testing to see for real. Puzzle games are hard to judge this way.
 
 This month I'll be continuing to tend to my new pup and to work towards finishing this vital conceptual puzzle piece for the final part of the game.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/88yrgh/robo_instructus_easter_slows_continued_progress/) | [twitter](https://twitter.com/alexbutlergames/status/980776429976727552) | [facebook](https://www.facebook.com/alexbutlergames/posts/1836106439810068)
