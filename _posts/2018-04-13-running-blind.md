@@ -13,3 +13,5 @@ One of the impacts of not having ***robo_scan()*** available is even if your rob
 Of course there **is** a way to successfully route safely through the level, even without your ***robo_scan()*** eyes. Doing the utmost with what little you have is what Robo Instructus is all about. Then later your eyes will return, you'll need them _and_ what you learned in the dark.
 
 And this is all before you need to meddle with actual concurrency, the current area I am developing right now.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8c01o7/robo_instructus_running_blind_sneak_peak_at_a/) | [twitter](https://twitter.com/alexbutlergames/status/984815553851293697) | [facebook](https://www.facebook.com/alexbutlergames/posts/1849226341831411)
