@@ -65,3 +65,5 @@ Since after they're baked the text rendering performance is excellent, I general
 I've been continually making smaller performance improvements over many releases of **gfx-glyph**, **rusttype** & Robo Instructus itself. The end result is now I can render all the user-code, icons and in-game text without slowdown even with the rust-compiler in debug mode. The former gives a good experience for my players, the latter allows me to get the game done.
 
 Speaking of which more Robo Instructus specific updates are coming up.
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8kezix/robo_instructus_a_technical_look_at_text/) | [twitter](https://twitter.com/alexbutlergames/status/997533577897267201) | [facebook](https://www.facebook.com/alexbutlergames/posts/1888509174569794)
