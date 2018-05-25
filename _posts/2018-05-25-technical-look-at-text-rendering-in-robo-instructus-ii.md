@@ -58,3 +58,5 @@ Taking layout caching further if _no_ layout has changed since last frame there 
 All this caching means text rendering is cheap most frames as we totally avoid hard work, and when we actually _do_ need to do something we only do a small part of the total work. This is why I love programming, this mentality is actually encouraged!
 
 You can find the code for this heavily cached text rendering in my rust library [gfx-glyph](https://github.com/alexheretic/gfx-glyph).
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8m3f4k/robo_instructus_even_faster_cached_text_rendering/) | [twitter](https://twitter.com/alexbutlergames/status/1000061351442698241) | [facebook](https://www.facebook.com/alexbutlergames/posts/1896458177108227)
