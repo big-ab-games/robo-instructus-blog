@@ -3,7 +3,7 @@ preface: robo-2
 title: A Random Solution To Colour Banding
 ---
 
-You may have noticed something about Robo Instructus' puzzle backgrounds when looking at screenshots in previous posts, there is a stepped gradient affect happening. While the gradient is intentional the stepping isn't! Let's take a look at colour banding, why does it occur and what can be done?
+You may have noticed something about Robo Instructus' puzzle backgrounds when looking at screenshots in previous posts, there is a stepped gradient effect happening. While the gradient is intentional the stepping isn't! Let's take a look at colour banding, why does it occur and what can be done?
 
 ![](/assets/2018-06-08/banding.png "Can you see the colour banding in the background?")
 
