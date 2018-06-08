@@ -78,7 +78,7 @@ void main() {
 }
 ```
 
-The ***rand*** function is not random at all, but produces noise from window coordinates that _appears_ random. In fragment shaders appearance is all the matters, and not having to use a texture makes this a nice drop in fix to the shader. The effect is subtle visible noise, but without any colour banding.
+The ***rand*** function is not random at all, but produces noise from window coordinates that _appears_ random. In fragment shaders appearance is all the matters, and not having to use a texture makes this a nice drop in fix to the shader.
 
 ![](/assets/2018-06-08/band-dithered.png "Fragment shader old vs new")
 
