@@ -45,3 +45,5 @@ The 2 running processes are spinning independently but when they call out into t
 The reality is a _little_ more complex as we have issues like environmental delays (launcher tiles) and variable cost functions. But these are all surmountable or already surmounted.
 
 If players can _actually get past the first two thirds_ of Robo Instructus they're in for a delightfully concurrent new puzzle-cake to bite into. Bon appetit!
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8rb5mh/robo_instructus_coop_for_one_deterministic/) | [twitter](https://twitter.com/alexbutlergames/status/1007622995177811968) | [facebook](https://www.facebook.com/alexbutlergames/posts/1921291631291548)
