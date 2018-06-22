@@ -49,3 +49,5 @@ Shoving that in code we get:
 A nice example of working together! Notice how the programs run without blocking each other, though the robot explicitly waits for a message.
 
 Of course, this could have been solved with a single ***robo_scan()*** if it were available. But as players progress they'll have to more fiendish puzzles that could never have been tackled single robot logic.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8t3eod/robo_instructus_solve_harder_levels_with_the_help/) | [twitter](https://twitter.com/alexbutlergames/status/1010220263101947904) | [facebook](https://www.facebook.com/alexbutlergames/posts/1933386353415409)
