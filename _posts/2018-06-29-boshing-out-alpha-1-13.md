@@ -29,3 +29,5 @@ I thought so, but I hit a bug in my text library that cause the line-breaks to n
 It's been a while since releases and that's expected as I've been working on post-alpha features of the game. But so much of the core game code has shifted that it's useful to have an up-to-date build available to the testing group. Along with the spattering of new stuff is a whole shift in the engine and a huge number of dependency updates from around the rust gamedev community. Including my own [gfx-glyph](https://github.com/alexheretic/gfx-glyph/releases/tag/0.12.0) crate the latest version of which also released today.
 
 So ***alpha-1.13*** should just be a little leaner, faster & better than previous releases, let me know otherwise test people!
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8uvtqt/robo_instructus_summarizing_the_summary/) | [twitter](https://twitter.com/alexbutlergames/status/1012776054774214656) | [facebook](https://www.facebook.com/alexbutlergames/posts/1945038275583550)
