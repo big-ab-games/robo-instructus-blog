@@ -3,7 +3,7 @@
 preface: false
 big_logo: true
 ---
-I'm Alex Butler, in April 2017 I started making my own games. I'm currently developing robot engineering puzzle game **Robo Instructus**, read about it below.
+My name is Alex Butler / Big AB Games. I'm developing robot engineering puzzle game **Robo Instructus**, read about it below.
 
 {% for post in site.posts limit:1 %}
 ##### Posted on {{post.date | date: "%A %e-%b-%Y"}}
