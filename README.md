@@ -1,4 +1,4 @@
-Alex Butler Gamedev Blog
+Robo Instructus Devblog
 ========================
 View at [blog.roboinstruct.us](https://blog.roboinstruct.us/)
 
