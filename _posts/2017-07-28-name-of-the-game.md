@@ -22,4 +22,4 @@ These allow control of the code execution in addition to the hotkeys I've been u
 
 Next step showing all the levels the coded solution will need to solve. When a solution runs it'll have to solve all these levels. After that showing results, stats and allowing progression to the next set of levels. As ever, check back next Friday for more progress.
 
-##### Comment on [twitter](https://twitter.com/alexbutlergames/status/890879441286680576) | [facebook](https://www.facebook.com/alexbutlergames/posts/1523634747723907) | [reddit](https://www.reddit.com/r/devblogs/comments/6q2xj1/that_guy_that_quit_his_job_to_make_games_robo/)
+##### Comment on [twitter](https://twitter.com/bigabgames/status/890879441286680576) | [facebook](https://www.facebook.com/bigabgames/posts/1523634747723907) | [reddit](https://www.reddit.com/r/devblogs/comments/6q2xj1/that_guy_that_quit_his_job_to_make_games_robo/)

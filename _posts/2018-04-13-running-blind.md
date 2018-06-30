@@ -14,4 +14,4 @@ Of course there **is** a way to successfully route safely through the level, eve
 
 And this is all before you need to meddle with actual concurrency, the current area I am developing right now.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8c01o7/robo_instructus_running_blind_sneak_peak_at_a/) | [twitter](https://twitter.com/alexbutlergames/status/984815553851293697) | [facebook](https://www.facebook.com/alexbutlergames/posts/1849226341831411)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8c01o7/robo_instructus_running_blind_sneak_peak_at_a/) | [twitter](https://twitter.com/bigabgames/status/984815553851293697) | [facebook](https://www.facebook.com/bigabgames/posts/1849226341831411)

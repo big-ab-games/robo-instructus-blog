@@ -28,4 +28,4 @@ I'll keep working on effects for the other functions too, I'm convinced they hel
 
 I'll have more to show off next week.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7k0zwc/robo_instructus_introducing_new_game_solution/) | [twitter](https://twitter.com/alexbutlergames/status/941716060805398528) | [facebook](https://www.facebook.com/alexbutlergames/posts/1711479208939459)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7k0zwc/robo_instructus_introducing_new_game_solution/) | [twitter](https://twitter.com/bigabgames/status/941716060805398528) | [facebook](https://www.facebook.com/bigabgames/posts/1711479208939459)

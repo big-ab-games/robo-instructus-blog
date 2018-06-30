@@ -65,4 +65,4 @@ That's the idea yes, that all this will be fun for players to work out. I rememb
 ### Progress
 Currently I'm working toward alpha-2, described in last weeks: [2018 goals](/2018/01/05/2018-plans.html). However, I also released _alpha-1.9_ with some new fixes and minor features to my alpha testing group earlier today. I'm still very interested in feedback from alpha-1.x so please do get into contact if you want to help me make this game better.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7pya2v/robo_instructus_getting_badder_a_look_at_the/) | [twitter](https://twitter.com/alexbutlergames/status/951873457511370753) | [facebook](https://www.facebook.com/alexbutlergames/posts/1742220369198676)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7pya2v/robo_instructus_getting_badder_a_look_at_the/) | [twitter](https://twitter.com/bigabgames/status/951873457511370753) | [facebook](https://www.facebook.com/bigabgames/posts/1742220369198676)

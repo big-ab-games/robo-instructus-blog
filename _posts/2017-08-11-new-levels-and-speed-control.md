@@ -36,4 +36,4 @@ After finishing the UI logic & adding world speed selection, it wasn't too diffi
 
 All in all some decent progress towards the first Robo Instructus alpha. The remaining items are improved animations for the now finished APIs, tutorials, level completion dialogs, code wrapping/scrolling/rendering improvements & in-game error highlighting/hinting.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6t15sn/robo_instructus_the_game_where_you_actually_need/) | [twitter](https://twitter.com/alexbutlergames/status/895999901066301440) | [facebook](https://www.facebook.com/alexbutlergames/posts/1539190676168314)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6t15sn/robo_instructus_the_game_where_you_actually_need/) | [twitter](https://twitter.com/bigabgames/status/895999901066301440) | [facebook](https://www.facebook.com/bigabgames/posts/1539190676168314)

@@ -26,4 +26,4 @@ Finally **alpha-1.10** also brings new feature for the in-line debugger; highlig
 ### News for the news
 As mentioned I'm actively working on new stuff. But I'm keeping the build together in one, no weird branch stuff, and I'm planning yet more alpha-1 content. I'll tell you more later! _oooooooowwwwww._
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7ut6wy/robo_instructus_new_stuff_for_the_new_and_the_old/) | [twitter](https://twitter.com/alexbutlergames/status/959487373410275328) | [facebook](https://www.facebook.com/alexbutlergames/posts/1765786986842014)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7ut6wy/robo_instructus_new_stuff_for_the_new_and_the_old/) | [twitter](https://twitter.com/bigabgames/status/959487373410275328) | [facebook](https://www.facebook.com/bigabgames/posts/1765786986842014)

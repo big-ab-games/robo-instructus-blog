@@ -26,4 +26,4 @@ I am aware the robot movement animation aren't very fluid, in my mind this can w
 
 In summary; more features nailed down for the first playable alpha, and I'll continue with that next week. Check back then for more progress. I'm getting there.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6uh8n9/robo_instructus_please_dont_laugh_too_much_at_my/) | [twitter](https://twitter.com/alexbutlergames/status/898508558320492545) | [facebook](https://www.facebook.com/alexbutlergames/posts/1551548658265849)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6uh8n9/robo_instructus_please_dont_laugh_too_much_at_my/) | [twitter](https://twitter.com/bigabgames/status/898508558320492545) | [facebook](https://www.facebook.com/bigabgames/posts/1551548658265849)

@@ -14,4 +14,4 @@ I've had to stash a lot of exciting ideas for the game so I can finish it in a t
 
 This month I'll be continuing to tend to my new pup and to work towards finishing this vital conceptual puzzle piece for the final part of the game.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/88yrgh/robo_instructus_easter_slows_continued_progress/) | [twitter](https://twitter.com/alexbutlergames/status/980776429976727552) | [facebook](https://www.facebook.com/alexbutlergames/posts/1836106439810068)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/88yrgh/robo_instructus_easter_slows_continued_progress/) | [twitter](https://twitter.com/bigabgames/status/980776429976727552) | [facebook](https://www.facebook.com/bigabgames/posts/1836106439810068)

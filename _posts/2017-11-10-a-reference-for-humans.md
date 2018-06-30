@@ -16,4 +16,4 @@ As I'm on holiday a bunch of this and next week progress is a little slower, thi
 
 *If you fancy being a part of Robo Instructus' alpha testing get into contact with me using one of the methods on the [front page](/).*
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7c0i9c/robo_instructus_a_reference_for_humans/) | [twitter](https://twitter.com/alexbutlergames/status/928944396745216000) | [facebook](https://www.facebook.com/alexbutlergames/posts/1664012297019484)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7c0i9c/robo_instructus_a_reference_for_humans/) | [twitter](https://twitter.com/bigabgames/status/928944396745216000) | [facebook](https://www.facebook.com/bigabgames/posts/1664012297019484)

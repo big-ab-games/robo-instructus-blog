@@ -42,4 +42,4 @@ I still have content to add, but now should be unblocked to do so. Once I've fin
 
 **If you'd like to help me test the incoming very first version please get into contact using one of the methods on the [front page](/)**.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/738ltm/robo_instructus_information_for_all_resolutions/) | [twitter](https://twitter.com/alexbutlergames/status/913789221520977921) | [facebook](https://www.facebook.com/alexbutlergames/posts/1609596722461042)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/738ltm/robo_instructus_information_for_all_resolutions/) | [twitter](https://twitter.com/bigabgames/status/913789221520977921) | [facebook](https://www.facebook.com/bigabgames/posts/1609596722461042)

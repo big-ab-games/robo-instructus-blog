@@ -41,4 +41,4 @@ As mentioned last week the tutorials remain the biggest alpha feature yet to be 
 
 When I release the open alpha I'll really need the help of everyone to promote it, if no-one hears about it no-one will test it! If you want to help test the very first alpha please [contact me](mailto:alex@roboinstruct.us). Of course, I'll be talking about it more and more as we get closer.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6xdzww/robo_instructus_wrapping_up_the_alpha_code/) | [twitter](https://twitter.com/alexbutlergames/status/903584009879523329) | [facebook](https://www.facebook.com/alexbutlergames/posts/1576325825788132)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6xdzww/robo_instructus_wrapping_up_the_alpha_code/) | [twitter](https://twitter.com/bigabgames/status/903584009879523329) | [facebook](https://www.facebook.com/bigabgames/posts/1576325825788132)

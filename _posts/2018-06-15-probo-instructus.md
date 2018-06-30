@@ -46,4 +46,4 @@ The reality is a _little_ more complex as we have issues like environmental dela
 
 If players can _actually get past the first two thirds_ of Robo Instructus they're in for a delightfully concurrent new puzzle-cake to bite into. Bon appetit!
 
-##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8rb5mh/robo_instructus_coop_for_one_deterministic/) | [twitter](https://twitter.com/alexbutlergames/status/1007622995177811968) | [facebook](https://www.facebook.com/alexbutlergames/posts/1921291631291548)
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8rb5mh/robo_instructus_coop_for_one_deterministic/) | [twitter](https://twitter.com/bigabgames/status/1007622995177811968) | [facebook](https://www.facebook.com/bigabgames/posts/1921291631291548)

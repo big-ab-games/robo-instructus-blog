@@ -41,4 +41,4 @@ Coding & mathematics are esoteric to many. It feels like there is no *in* to all
 
 In fantasy fiction wizards are born into their rare mysterious talents, but in reality anyone can start down the arcane road.<br/> **So, do you want to cast spells?**
 
-##### Comment on [twitter](https://twitter.com/alexbutlergames/status/880794135422263296) | [facebook](https://www.facebook.com/alexbutlergames/posts/1489197901167592) | [reddit](https://www.reddit.com/r/devblogs/comments/6kg978/that_guy_that_quit_his_job_to_make_games_coding)
+##### Comment on [twitter](https://twitter.com/bigabgames/status/880794135422263296) | [facebook](https://www.facebook.com/bigabgames/posts/1489197901167592) | [reddit](https://www.reddit.com/r/devblogs/comments/6kg978/that_guy_that_quit_his_job_to_make_games_coding)

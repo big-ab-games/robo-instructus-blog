@@ -19,4 +19,4 @@ So look forward to that and in the meantime enjoy this iterative improvement.
 
 ![](/assets/2017-11-24/fun-summary.gif)
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7f8dj6/robo_instructus_having_a_nicer_time_looking_stuff/) | [twitter](https://twitter.com/alexbutlergames/status/934090002396536832) | [facebook](https://www.facebook.com/alexbutlergames/posts/1685326374888076)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7f8dj6/robo_instructus_having_a_nicer_time_looking_stuff/) | [twitter](https://twitter.com/bigabgames/status/934090002396536832) | [facebook](https://www.facebook.com/bigabgames/posts/1685326374888076)

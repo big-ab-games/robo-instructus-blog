@@ -34,4 +34,4 @@ This video introduces:
 
 As you can see the current build hasn't actually got a game in it yet. I'll be working on the initial level(s) in the coming weeks. However, I hope you can start to see what I'm working towards. Lets see what next week brings!
 
-##### Comment on [twitter](https://twitter.com/alexbutlergames/status/883307001719250944) | [facebook](https://www.facebook.com/alexbutlergames/posts/1497823606971688) | [reddit](https://www.reddit.com/r/devblogs/comments/6ltfzh/that_guy_that_quit_his_job_to_make_games_teaching)
+##### Comment on [twitter](https://twitter.com/bigabgames/status/883307001719250944) | [facebook](https://www.facebook.com/bigabgames/posts/1497823606971688) | [reddit](https://www.reddit.com/r/devblogs/comments/6ltfzh/that_guy_that_quit_his_job_to_make_games_teaching)

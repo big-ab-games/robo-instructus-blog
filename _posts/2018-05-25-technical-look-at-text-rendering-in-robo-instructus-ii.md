@@ -59,4 +59,4 @@ All this caching means text rendering is cheap most frames as we totally avoid h
 
 You can find the code for this heavily cached text rendering in my rust library [gfx-glyph](https://github.com/alexheretic/gfx-glyph).
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8m3f4k/robo_instructus_even_faster_cached_text_rendering/) | [twitter](https://twitter.com/alexbutlergames/status/1000061351442698241) | [facebook](https://www.facebook.com/alexbutlergames/posts/1896458177108227)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8m3f4k/robo_instructus_even_faster_cached_text_rendering/) | [twitter](https://twitter.com/bigabgames/status/1000061351442698241) | [facebook](https://www.facebook.com/bigabgames/posts/1896458177108227)

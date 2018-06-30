@@ -25,4 +25,4 @@ So the game is a little more pleasant to code in now. There are also more improv
 
 *If you fancy being a part of Robo Instructus' alpha testing get into contact with me using one of the methods on the [front page](/).*
 
-##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/794e3e/robo_instructus_more_powerful_by_the_week/) | [twitter](https://twitter.com/alexbutlergames/status/923951057436332032) | [facebook](https://www.facebook.com/alexbutlergames/posts/1639818306105550)
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/794e3e/robo_instructus_more_powerful_by_the_week/) | [twitter](https://twitter.com/bigabgames/status/923951057436332032) | [facebook](https://www.facebook.com/bigabgames/posts/1639818306105550)

@@ -15,4 +15,4 @@ When we get around to comparing with friends via steam or similar it'll just use
 
 While improvements can still be made to the end-of-level stats, they are in good enough shape for me to direct my attention once again to finishing the final game levels. If you're an alpha tester please get back to me with feedback on the stats and graphs.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/81fj14/robo_instructus_rendering_best_scores_in_the/) | [twitter](https://twitter.com/alexbutlergames/status/969612156441366528) | [facebook](https://www.facebook.com/alexbutlergames/posts/1797964926957553)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/81fj14/robo_instructus_rendering_best_scores_in_the/) | [twitter](https://twitter.com/bigabgames/status/969612156441366528) | [facebook](https://www.facebook.com/bigabgames/posts/1797964926957553)

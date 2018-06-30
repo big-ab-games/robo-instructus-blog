@@ -26,4 +26,4 @@ I think the game will be a good fit for windowed as I often go for maximized-win
 
 *If you fancy being a part of Robo Instructus' alpha testing get into contact with me using one of the methods on the [front page](/).*
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7ajxqq/robo_instructus_a_window_to_the_stack_rendering/) | [twitter](https://twitter.com/alexbutlergames/status/926465112063533057) | [facebook](https://www.facebook.com/alexbutlergames/posts/1653412114746169)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7ajxqq/robo_instructus_a_window_to_the_stack_rendering/) | [twitter](https://twitter.com/bigabgames/status/926465112063533057) | [facebook](https://www.facebook.com/bigabgames/posts/1653412114746169)

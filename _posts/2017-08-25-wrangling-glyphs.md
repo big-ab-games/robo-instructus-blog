@@ -33,4 +33,4 @@ A month ago [I explained many of the tools available to the player in the upcomi
 
 A big task yet remaining is tutorials for the alpha. This is a big potential stumbling block as I need to make it informative enough to those with little coding experience, and yet not totally dull (my experience of most programming tutorials). On the other hand, a tutorial should be something I can improve based on feedback from the alpha. So I'll probably try to keep it brief and fill in the gaps later.
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6vyd5w/robo_instructus_high_performance_text_rendering/) | [twitter](https://twitter.com/alexbutlergames/status/901070347876913153) | [facebook](https://www.facebook.com/alexbutlergames/posts/1567556503331731)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6vyd5w/robo_instructus_high_performance_text_rendering/) | [twitter](https://twitter.com/bigabgames/status/901070347876913153) | [facebook](https://www.facebook.com/bigabgames/posts/1567556503331731)

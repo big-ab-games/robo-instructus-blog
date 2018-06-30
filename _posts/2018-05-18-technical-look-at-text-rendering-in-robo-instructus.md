@@ -66,4 +66,4 @@ I've been continually making smaller performance improvements over many releases
 
 Speaking of which more Robo Instructus specific updates are coming up.
 
-##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8kezix/robo_instructus_a_technical_look_at_text/) | [twitter](https://twitter.com/alexbutlergames/status/997533577897267201) | [facebook](https://www.facebook.com/alexbutlergames/posts/1888509174569794)
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8kezix/robo_instructus_a_technical_look_at_text/) | [twitter](https://twitter.com/bigabgames/status/997533577897267201) | [facebook](https://www.facebook.com/bigabgames/posts/1888509174569794)

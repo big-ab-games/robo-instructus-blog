@@ -47,4 +47,4 @@ I still have many issues raised so far to work through improving the game. Next 
 
 *If you fancy being a part of the alpha testing get into contact with me using one of the methods on the [front page](/).*
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/77nd2q/robo_instructus_you_must_gather_your_knowledge/) | [twitter](https://twitter.com/alexbutlergames/status/921418810321723392) | [facebook](https://www.facebook.com/alexbutlergames/posts/1631858330234881)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/77nd2q/robo_instructus_you_must_gather_your_knowledge/) | [twitter](https://twitter.com/bigabgames/status/921418810321723392) | [facebook](https://www.facebook.com/bigabgames/posts/1631858330234881)

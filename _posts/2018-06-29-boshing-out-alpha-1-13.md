@@ -30,4 +30,4 @@ It's been a while since releases and that's expected as I've been working on pos
 
 So ***alpha-1.13*** should just be a little leaner, faster & better than previous releases, let me know otherwise test people!
 
-##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8uvtqt/robo_instructus_summarizing_the_summary/) | [twitter](https://twitter.com/alexbutlergames/status/1012776054774214656) | [facebook](https://www.facebook.com/alexbutlergames/posts/1945038275583550)
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8uvtqt/robo_instructus_summarizing_the_summary/) | [twitter](https://twitter.com/bigabgames/status/1012776054774214656) | [facebook](https://www.facebook.com/bigabgames/posts/1945038275583550)

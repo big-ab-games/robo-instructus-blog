@@ -16,4 +16,4 @@ So now you can get launched about the level. Notice the charge time is long enou
 
 You may need special behaviour if you want to make sure to use the launcher and maybe even special-er if you want to make sure _not_ to. What if an unknown tile turns out to be a launcher... Should be fun times!
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7rj43j/robo_instructus_making_the_jump/) | [twitter](https://twitter.com/alexbutlergames/status/954377187070799877) | [facebook](https://www.facebook.com/alexbutlergames/posts/1749523391801707)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/7rj43j/robo_instructus_making_the_jump/) | [twitter](https://twitter.com/bigabgames/status/954377187070799877) | [facebook](https://www.facebook.com/bigabgames/posts/1749523391801707)

@@ -88,4 +88,4 @@ The effect is subtle visible noise, but without any colour banding!
 
 The noise here is set pretty low, but can actually provide a nice grainy texture to a colour. So as a bonus the ***rand*** function gives me a texture-less way to provide this grain to other bits of Robo Instructus if desired.
 
-##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8pj7re/a_random_solution_to_colour_banding/) | [twitter](https://twitter.com/alexbutlergames/status/1005052221741064193) | [facebook](https://www.facebook.com/alexbutlergames/posts/1911721202248591)
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8pj7re/a_random_solution_to_colour_banding/) | [twitter](https://twitter.com/bigabgames/status/1005052221741064193) | [facebook](https://www.facebook.com/bigabgames/posts/1911721202248591)

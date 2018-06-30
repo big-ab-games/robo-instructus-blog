@@ -35,4 +35,4 @@ I'll be  releasing **alpha-1.1** next week.
 <br/>If you'd like to be a part of testing the alpha versions please get into contact using one of the methods on the [front page](/).
 
 
-##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/765dvq/robo_instructus_inside_the_alpha_loop_taking_on/) | [twitter](https://twitter.com/alexbutlergames/status/918855361414692865) | [facebook](https://www.facebook.com/alexbutlergames/posts/1624174194336628)
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/765dvq/robo_instructus_inside_the_alpha_loop_taking_on/) | [twitter](https://twitter.com/bigabgames/status/918855361414692865) | [facebook](https://www.facebook.com/bigabgames/posts/1624174194336628)
