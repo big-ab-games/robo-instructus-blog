@@ -20,7 +20,7 @@ The stats themselves are deterministic & based on your calls to the ***robo_****
 I had initially left copy-paste functionality off my alpha features, but I've decided its absence will be too annoying. I mostly boshed out the code yesterday anyway, so not a huge deal after all. This should be ready next week.
 
 ### Open source
-As a huge beneficiary of amazing open source code (as we all are really) I'm keen to contribute where I can. While Robo Instructus itself is closed source, the general purpose parts I develop along the way I will actively open up & shove on github. 
+As a huge beneficiary of amazing open source code (as we all are really) I'm keen to contribute where I can. While Robo Instructus itself is closed source, the general purpose parts I develop along the way I will actively open up & shove on github.
 Since I'm developing Robo Instructus in [rust](https://www.rust-lang.org), this mean *rust crates*.
 
 I have a few projects you can find [on github](https://github.com/alexheretic). Highlighting one of the simpler ones; I've recently added a helper for reporting frame rates in a convenient way to my rust library [spin_sleep](https://github.com/alexheretic/spin-sleep).
@@ -50,6 +50,6 @@ loop { // game loop
 
 I've also made performance improvements and fixes to my glyph rendering crate [gfx_glyph](https://github.com/alexheretic/gfx-glyph) this week.
 
-So the Robo Instructus first alpha continues to shape up. Are you ready to help me test it? As ever, if you like reading about the game or want to help me out, head over to [facebook](https://www.facebook.com/alexbutlergames) or [twitter](https://twitter.com/alexbutlergames) and like/follow/comment. Doing this will really help me build the buzz for this engineering puzzler.
+So the Robo Instructus first alpha continues to shape up. Are you ready to help me test it? As ever, if you like reading about the game or want to help me out, head over to [facebook](https://www.facebook.com/bigabgames) or [twitter](https://twitter.com/bigabgames) and like/follow/comment. Doing this will really help me build the buzz for this engineering puzzler.
 
 ##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/6yugy6/robo_instructus_adding_performance_statistics_how/) | [twitter](https://twitter.com/bigabgames/status/906133079705694211) | [facebook](https://www.facebook.com/bigabgames/posts/1584201418333906)
