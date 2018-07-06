@@ -22,3 +22,5 @@ Let's see one in action.
 <video src="/assets/2018-07-06/usables.mp4" controls></video>
 
 This also gets the player traversing unknown-tiles a little earlier than the meatier puzzle of ***robo_detect_adjacent()***. This concept isn't just for early game though, usable tiles are part of harder later levels too. Look out for new puzzles coming to the alpha builds soon.
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/8wjc1c/robo_instructus_robo_usables_new_puzzle_concepts/) | [twitter](https://twitter.com/bigabgames/status/1015195641499340805) | [facebook](https://www.facebook.com/bigabgames/posts/1956173114470066)
