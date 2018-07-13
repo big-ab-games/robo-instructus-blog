@@ -25,5 +25,11 @@ It's actually pretty doable to do this once you have a go. So I think this shoul
 ### Alpha 1.14
 Since data points are not just late game content they've appeared in the latest alpha released today. ***alpha-1.14*** features **6 new levels** to conquer. This could be a great time for my sleepy alpha testing group to wake up and play the game again! You guys are still there right? I'm considering recruiting some more peeps to help test the game, but also want to hold off for the final art. Hmmm...
 
+Final alpha-1 level now includes some data points.
+
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/2331607/42702607-eb45b186-86c1-11e8-83e9-2cb877b9b1ff.png"/>
+</p>
+
 ### Other News
 The other thing I've been working on this week is late game levels you tackle with robot & probe. [Read about the probe](/2018/06/22/probo-instructus-p2.html) if you missed that. These levels are quite exciting and really open up possibilities compared to the single-robot early & mid game. I'll talk a little more about the cool late game challenges in the coming weeks.
