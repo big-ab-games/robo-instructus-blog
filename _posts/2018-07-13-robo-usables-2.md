@@ -33,3 +33,5 @@ Final alpha-1 level now includes some data points.
 
 ### Other News
 The other thing I've been working on this week is late game levels you tackle with robot & probe. [Read about the probe](/2018/06/22/probo-instructus-p2.html) if you missed that. These levels are quite exciting and really open up possibilities compared to the single-robot early & mid game. I'll talk a little more about the cool late game challenges in the coming weeks.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/8yljvc/robo_instructus_more_robo_usables_alpha114/) | [twitter](https://twitter.com/bigabgames/status/1017811118880935937) | [facebook](https://www.facebook.com/bigabgames/posts/1967706599983384)
