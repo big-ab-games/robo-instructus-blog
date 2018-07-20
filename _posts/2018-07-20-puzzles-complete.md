@@ -46,3 +46,5 @@ Boolean operators were a bit of a weird one to fit in strangely. They seem so fu
 
 ## Learning stuff
 Talking about the tutorials, I still feel this is the area I need to improve the most. But I also need the most help from my testers. Where did you hit a brick wall, what didn't make sense or could be better? While I'm trying to avoid verbosity, I'm not _intentionally_ trying to be obtuse with these tutorials. So let me know how to improve them test peeps!
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/90gwct/robo_instructus_puzzle_design_is_now_complete/) | [twitter](https://twitter.com/bigabgames/status/1020325591701180417) | [facebook](https://www.facebook.com/bigabgames/posts/1979184088835635)
