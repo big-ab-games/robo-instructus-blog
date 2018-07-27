@@ -33,3 +33,5 @@ This mirrors the approach we moved toward in my music days for album artwork. We
 ...On the other hand I have to _not hate it_, it's my game after all.
 
 This approach may prove risky, and probably isn't the "done thing" for game art production. But lets see how it turns out shall we?
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/92bvr8/robo_instructus_the_road_to_good_looking_robots/) | [twitter](https://twitter.com/bigabgames/status/1022812527804252160) | [facebook](https://www.facebook.com/bigabgames/posts/1991140240973353)
