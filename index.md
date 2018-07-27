@@ -10,7 +10,7 @@ Big AB Games are developing robot engineering puzzle game **Robo Instructus**, r
 
 > ## {{ post.title }}
 > {{ post.excerpt }}
-[Read the rest of this entry]({{ post.url }})
+[<b>Read the rest of this post</b>]({{ post.url }})
 
 
 {% endfor %}
