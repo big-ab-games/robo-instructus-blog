@@ -37,3 +37,5 @@ Take this later level, I kept track of tiles I deemed safe one sequence and unsa
 Really cool to see what was seemingly random spinning round the level become vividly clear as an exercise in determining a safe route forward to the exit. You can even see the yellow highlight of the tile in front before the algorithm deems it safe or unsafe.
 
 The hard parts of the highlighting are now done, hence seeing it working. It needs polishing and work to make it not too visually overpowering while still clear and useful. This should be a really nice tool though. Helping you when the solution isn't quite working & satisfying when it finally paints the level all the way to completion.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9847j0/robo_instructus_painting_the_stack_upon_the_world/) | [twitter](https://twitter.com/bigabgames/status/1030505117420797952) | [facebook](https://www.facebook.com/bigabgames/posts/2029821083771935)
