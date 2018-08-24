@@ -49,3 +49,5 @@ I've also used the stack data storage mechanism for a smaller job, if I can stor
 These new features are available for my slumbering alpha testers in the form of alpha-1.18. Man when I slap some sexy art on this game I'm getting some new cool testers and you'll be sorry you never liked me when I was ugly.
 
 I mean the game. Constructive feedback for the game.
+
+##### Comment on [reddit](https://www.reddit.com/r/rust_gamedev/comments/9a09fp/robo_instructus_richer_info_for_code_world/) | [twitter](https://twitter.com/bigabgames/status/1033068505707495424) | [facebook](https://www.facebook.com/bigabgames/posts/2043136425773734)
