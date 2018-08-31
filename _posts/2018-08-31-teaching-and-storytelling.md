@@ -30,3 +30,5 @@ Still I believe it's better to have more motivated players interested in the con
 I am also moving the narrative style to information you "unlock" after finishing a level, rather than text you have to click through to play a level. The distinction is subtle, but again is linked to making the story feel more rewarding. You'll also unlock new functions after success all in the name of maximising the satisfaction of actually finishing a level.
 
 I should have more to say about the narrative in the coming weeks.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9bvq8u/robo_instructus_teaching_and_storytelling/) | [twitter](https://twitter.com/bigabgames/status/1035583793711730689) | [facebook](https://www.facebook.com/bigabgames/posts/2052616084825768)
