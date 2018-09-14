@@ -23,3 +23,5 @@ Art production is continuing in the background. My artist Tom is getting toward 
 Work on the game music will be starting soon. I'll write more about this when we're further down the road. But since I won't be composing it myself, it means art, music & story production can move forward concurrently.
 
 Similar to the art assets, having an OST in place will hugely elevate the experience. So I really can't wait to start integrating the art & music.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9fr0t8/robo_instructus_unlocking_story_art_music/) | [twitter](https://twitter.com/bigabgames/status/1040556231558082561) | [facebook](https://www.facebook.com/bigabgames/posts/2070882022999174)
