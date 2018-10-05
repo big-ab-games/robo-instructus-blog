@@ -27,3 +27,5 @@ At the same time as art production the game's composer Richard Thomson has start
 
 # Story systems
 Finally my own efforts are still aimed at the game's story systems. I'm starting to feel happier with how the unlock style is working out and am in progress converting my old info into this format. Still lots to do but I am feeling even more inspired by the talented artists helping make this idea a reality.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9lo078/robo_instructus_concept_art_revealed/) | [twitter](https://twitter.com/bigabgames/status/1048252706807341056) | [facebook](https://www.facebook.com/bigabgames/posts/2099456196808423)
