@@ -14,7 +14,7 @@ This frozen scaffold will be one of the first impressions players will get from 
   <img align="center" src="/assets/2018-10-05/robo-concept.png" title="One eye will help explain why he keeps falling off the levels too..." />
 </p>
 
-Is this the kind of robot you'd be happy to instruct?
+Is this the kind of automaton you'd be happy to command?
 
 They'll be a few level backgrounds as you progress downward through the game's coding puzzles, keeping things fresh and rewarding players for continuing. After the scaffold we get to the underground facility where things will get much more interesting.
 
