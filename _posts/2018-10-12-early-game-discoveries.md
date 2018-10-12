@@ -27,3 +27,5 @@ You can see me skip through the remaining _todo_ tutorial screens that will be e
 It's heartening to see this small but vital part of the game come into shape, as it's taken a couple of run ups to get a working version of the unlocks that felt right to me. There is still much to do and polish here, but I think the core works.
 
 So this means I have the game's system pretty much ready to go for the bulk of the game's story. I just need to write the rest of that story now.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9nm2ym/robo_instructus_early_game_discoveries/) | [twitter](https://twitter.com/bigabgames/status/1050794816953565187) | [facebook](https://www.facebook.com/bigabgames/photos/a.2004151779672199/2109783939108982/?type=3&theater)
