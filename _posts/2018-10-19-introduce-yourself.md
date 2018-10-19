@@ -41,3 +41,5 @@ Tooltips are low-glory features, but expected by players and indeed very useful.
 See this in action and, if you please, contrast the following video with the one I [posted last week](/2018/10/12/early-game-discoveries.html).
 
 <video src="/assets/2018-10-19/first-level.mp4" controls></video>
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9pmm15/robo_instructus_introduce_yourself/) | [twitter](https://twitter.com/bigabgames/status/1053354033937821701) | [facebook](https://www.facebook.com/bigabgames/posts/2120318374722205)
