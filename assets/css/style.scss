@@ -134,9 +134,9 @@ video {
   margin-bottom: -3px;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
   // webkit only
-  #social-links > .social-link > i.fa {
+  .selector:not(*:root), #social-links > .social-link > i.fa {
     padding-top: 7px !important;
   }
 }
