@@ -28,3 +28,5 @@ Some of the story that players unlock is pretty vital to figuring out the game, 
 
 ## In progress
 Art work continues with still much to do. Music production is progressing well, Rich has produced some really exciting samples that I <s>can't</s> will wait to have in the game. For my part, with the overlay & unlock systems in place, the fully fleshed out story is my next objective.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9rkcwh/robo_instructus_big_changes_for_the_early_game) | [twitter](https://twitter.com/bigabgames/status/1055793157366075392) | [facebook](https://www.facebook.com/bigabgames/posts/2129694720451237)
