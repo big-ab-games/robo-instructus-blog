@@ -50,7 +50,7 @@ When a player wants to look at a graph of everyone else's scores they request th
 I used AWS Lambda & DynamoDB which fit pretty nicely with this approach. Let's see how it goes as time goes on.
 
 ### Also the game
-Yes I've been developing the game too. Last week I finished an arc of new, post-alpha, levels making use of the new tools I talked about in [Asking For A Little More](http://localhost:3000/2018/02/09/asking-for-a-little-more.html). Particularly there's one that will ask quite a bit more:
+Yes I've been developing the game too. Last week I finished an arc of new, post-alpha, levels making use of the new tools I talked about in [Asking For A Little More](/2018/02/09/asking-for-a-little-more.html). Particularly there's one that will ask quite a bit more:
 
 ![](/assets/2018-02-24/new-level.png "This level is a bit hard")
 
