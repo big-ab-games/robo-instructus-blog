@@ -23,3 +23,5 @@ In the top-left of the world view you can see live stats as your solution runs. 
 Tom continues working on the art assets and Rich the music. I've also been working on the company messaging system that completes the story systems and will be able to show some of that soon.
 
 I'm starting to feel the need for more test feedback now the game is falling into place. If you'd like to test Robo Instructus get in touch, I may also open up alpha sign-ups at [www.roboinstruct.us](https://www.roboinstruct.us) again for a bit too so look out for that.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/9zomdw/robo_instructus_integer_time/) | [twitter](https://twitter.com/bigabgames/status/1065970344232710144) | [facebook](https://www.facebook.com/bigabgames/photos/a.2004151779672199/2173373616083347)
