@@ -28,3 +28,5 @@ I need to sprinkle some sound and art on this but I'm happy with the core of the
 There are still many improvements I want to make to this screen. Previewing a visited level before you click & a summary of your scores would be nice. The buttons will need a look once the background arrives too. Lots of potential improvements I think.
 
 If you're testing the game and have any ideas about the facility view let me know!
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/a1rmtc/robo_instructus_unveiling_the_arc) | [twitter](https://twitter.com/bigabgames/status/1068468005837946880) | [facebook](https://www.facebook.com/bigabgames/posts/2183521891735186)
