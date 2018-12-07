@@ -22,3 +22,5 @@ I actually haven't finished integrating all the assets in the first batch proper
 </div>
 
 Tom won't be resting after this though, there is much still to do. The facility background, other environment variations of the tiles and the biggest job; the robot's art and animations. So yes the placeholder robot is still clinging on inside the game, but this low-pixel robot's days are definitely numbered.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/a3ztq8/robo_instructus_its_actually_starting_to_look_good/) | [twitter](https://twitter.com/bigabgames/status/1071032244935016449) | [facebook](https://www.facebook.com/bigabgames/posts/2194352773985431)
