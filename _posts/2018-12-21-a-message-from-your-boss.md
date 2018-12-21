@@ -6,6 +6,8 @@ In life it's prudent to pay attention to a new message from your boss. This wisd
 
 ![](/assets/2018-12-21/top.jpg "What will it say I wonder?")
 
+<!--more-->
+
 Actually these messages will be kind of useful, particularly for employees that didn't bother to read their mission brief or have severe amnesia. The communications will have suggestions of where you are & why you're here.
 
 So these are a simple device to set the scene. I've been working on these while doing other things for a while now. I wanted the messages to feel very different to the info you uncover from the levels. These are two very different places so should feel like it. I'm reflecting this in font & style.
@@ -23,4 +25,4 @@ Let's take a look at it in action, with the level bit in the middle sped up:
 
 One of the cool things in there, that's hard to notice at the moment, is real time Gaussian blur of the background. It doesn't look like much because the background that's being blurred is placeholder. Once the fancy art comes in I'll be able to tweak this further & it should look much improved.
 
-It's quite a small piece, but it's the final narrative system to be developed. So now I just need to translate the lipsum texts into English and the writing will be done. 
+It's quite a small piece, but it's the final narrative system to be developed. So now I just need to translate the lipsum texts into English and the writing will be done.
