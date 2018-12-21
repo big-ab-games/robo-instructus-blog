@@ -26,3 +26,5 @@ Let's take a look at it in action, with the level bit in the middle sped up:
 One of the cool things in there, that's hard to notice at the moment, is real time Gaussian blur of the background. It doesn't look like much because the background that's being blurred is placeholder. Once the fancy art comes in I'll be able to tweak this further & it should look much improved.
 
 It's quite a small piece, but it's the final narrative system to be developed. So now I just need to translate the lipsum texts into English and the writing will be done.
+
+##### Comment on [reddit](https://www.reddit.com/r/devblogs/comments/a8dmze/robo_instructus_a_message_from_your_boss/) | [twitter](https://twitter.com/bigabgames/status/1076201392182886403) | [facebook](https://www.facebook.com/bigabgames/posts/2215695078517867)
