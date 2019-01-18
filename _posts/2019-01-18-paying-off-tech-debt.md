@@ -63,3 +63,5 @@ Let's take a look at new versus old, now I've mostly completed the implementatio
 </div>
 
 After all that, at 1080p it's going to look pretty much the same. But I hope you can now understand how I'm very glad to be rid of this debt.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1086246351803953153) | [facebook](https://www.facebook.com/bigabgames/videos/2477294578965133)
