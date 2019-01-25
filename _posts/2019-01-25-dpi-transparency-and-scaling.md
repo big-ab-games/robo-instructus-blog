@@ -35,3 +35,5 @@ This scaling is now working well in the game in a decent range that should serve
 
 ### World scaling
 One exception to the above is a hangover from the placeholder pixel art days; the game world don't scale in a DPI transparent way. However, with proper high quality art assets there's no longer a reason for this. Bloody technical debt again, will fix!
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1088824628045406208) | [facebook](https://www.facebook.com/bigabgames/posts/2267909346629773)
