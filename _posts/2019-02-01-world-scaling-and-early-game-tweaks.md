@@ -34,3 +34,5 @@ Last week I signed off by noting that while the game's scaling was _all fancy an
 
 ## Next steps
 February is going to be busy for me with lots of work on art integration, trailer creation and story writing. Lots of exciting improvements coming this month.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1091378122958753793) | [facebook](https://www.facebook.com/bigabgames/posts/2278633525557355)
