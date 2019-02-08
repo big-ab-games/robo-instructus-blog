@@ -31,3 +31,5 @@ Following on from previous week's work on game scalability on any resolution & D
     allowfullscreen>
   </iframe>
 </div>
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1093905868662419458) | [facebook](https://www.facebook.com/bigabgames/posts/2289185731168801)
