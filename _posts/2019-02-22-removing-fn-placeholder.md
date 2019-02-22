@@ -40,3 +40,5 @@ This means it's finally time to say goodbye to my long serving placeholder robot
 <p align="center">
   <img align="center" src="/assets/2019-02-22/bye-robot.png" title="Pull yourself together mate, placeholder panda was cuter anyway" />
 </p>
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1098970500460695552) | [facebook](https://www.facebook.com/bigabgames/videos/472094523324979)
