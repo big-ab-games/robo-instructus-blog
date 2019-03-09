@@ -54,6 +54,14 @@
           </div>
           {% if page.big_logo %}
           <div id="social-links">
+            <a class="social-link" title="Visit www.roboinstruct.us"
+              href="https://www.roboinstruct.us">
+              <i class="fa fa-rocket" aria-hidden="true"></i>
+            </a>
+            <a class="social-link" title="Visit the Steam store page"
+              href="https://store.steampowered.com/app/1032170">
+              <i class="fa fa-steam" aria-hidden="true"></i>
+            </a>
             <a class="social-link" title="Visit our facebook page"
               href="https://www.facebook.com/bigabgames">
               <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -87,6 +95,8 @@
             {% include robo-preface.html %}
           {% else if page.preface == 'robo-2' %}
             {% include robo-2-preface.html %}
+          {% else if page.preface == 'robo-3' %}
+            {% include robo-3-preface.html %}
           {% else %}
             {% include post-preface.html %}
           {% endif %}

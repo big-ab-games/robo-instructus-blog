@@ -169,6 +169,9 @@ video {
       position: relative;
       top: -$font_size / 24;
     }
+    i.fa-rocket {
+      padding-right: $font_size / 12;
+    }
 
     &:hover {
       background: #ccc;
