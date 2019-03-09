@@ -40,3 +40,5 @@ While the initial beta is much further on from the alpha builds, there remains m
 There's still half of the game not in the beta, though the levels are already designed. Lots of art work remains, the game is missing lots of fx and animations. So Tom will be busy during the beta!
 
 I'd also love to build a little community around the game and this begins with the beta testers. But I'll talk more about the beta effort in future posts. I've already released the first big _beta-1.2_ update and more improvements are incoming. This is going to be fun!
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1104485565104377857) | [facebook](https://www.facebook.com/bigabgames/posts/2335396433214397)
