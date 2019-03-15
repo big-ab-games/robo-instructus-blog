@@ -2,7 +2,7 @@
 preface: robo-2
 excerpt_separator: <!--more-->
 ---
-Today I released the beta-1.3 update for Robo Instructus. It brings a nice chunk of quality of life improvements to the game based on the feedback I've received. One of these is, each level now has a name.
+Today I released the [beta-1.3 update](https://github.com/big-ab-games/robo-instructus/releases/tag/beta-1.3) for Robo Instructus. It brings a nice chunk of quality of life improvements to the game based on the feedback I've received. One of these is, each level now has a name.
 
 <p align="center">
   <img align="center"
