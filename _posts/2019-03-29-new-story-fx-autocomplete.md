@@ -46,3 +46,5 @@ I didn't have time last week to write about the autocomplete functionality that 
 The latest update brings some smaller improvements with comparison operators and '==' completion to help nudge you in the right direction for this common misuse of the language.
 
 ![](https://user-images.githubusercontent.com/2331607/55234776-c55c3c00-5223-11e9-8d3b-944af2c95fe1.png "No not '=' use 'is'!")
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1111647444239114242) | [facebook](https://www.facebook.com/bigabgames/videos/367688000498851)
