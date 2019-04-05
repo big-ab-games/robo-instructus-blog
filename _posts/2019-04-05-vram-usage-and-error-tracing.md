@@ -78,3 +78,5 @@ Of course, beta-1.6 brings other stuff too. Improved error message, new effects 
 </p>
 
 I've also made improvements to try to prevent any chance of save data loss caused by the game itself even if killing or OS crashing while the game is running. Tip of the week, renaming on Windows (specifically rust _fs::rename_) is **not** atomic. Would everyone please just install Linux?
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1114133095245021184) | [facebook](https://www.facebook.com/bigabgames/posts/2376314672455906)
