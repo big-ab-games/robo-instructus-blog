@@ -63,7 +63,7 @@ It made no difference. **No** difference. How can it make no difference to VRAM 
 This is a bit of a downer, maybe I should give up ***4***.
 
 ## Choosing another compression option
-On the other hand, maybe a different compression option will work better. I found most texture compression techniques have quite bad support in GPUs even many years after they appear. https://opengl.gpuinfo.org/listcompressedformats.php makes quite grim reading, you can see that only really ETC2 and one other compression format enjoy decent support in drivers. And I already found out the hard way that ETC2's story isn't as rosy in actual hardware.
+On the other hand, maybe a different compression option will work better. I found most texture compression techniques have quite bad support in GPUs even many years after they appear. [opengl.gpuinfo.org/listcompressedformats.php](https://opengl.gpuinfo.org/listcompressedformats.php) makes quite grim reading, you can see that only really ETC2 and one other compression format enjoy decent support in drivers. And I already found out the hard way that ETC2's story isn't as rosy in actual hardware.
 
 So I opted for the oldest technique with the most names: **S3TC** or **DXTC** or **DXT1/DXT5** or **BC1/BC3** these all pretty much mean the same. These are around 20 years old and very well supported in hardware, but they can be a bit hard to use because they're not in core OpenGL. Why not? Because of a patent. This patent finally expired last year but the damage is still visible. Suffice to say I take a dim view of this.
 
