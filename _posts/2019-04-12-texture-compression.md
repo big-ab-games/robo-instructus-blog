@@ -106,3 +106,5 @@ After all this work I have game that will load faster, run faster on more hardwa
 Related:
 * My ktx crate: [github.com/alexheretic/ktx](https://github.com/alexheretic/ktx), [crates.io/crates/ktx](https://crates.io/crates/ktx)
 * Gfx-rs BC1/BC3 support PRs [gfx#2733](https://github.com/gfx-rs/gfx/pull/2733), [gfx_gl#38](https://github.com/gfx-rs/gfx_gl/pull/38)
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1116753232129400838) | [facebook](https://www.facebook.com/bigabgames/posts/2387645601322813)
