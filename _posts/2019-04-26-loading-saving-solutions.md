@@ -34,3 +34,5 @@ I'm keen to bring the next "arc", or "chapter" if you like, of levels to beta te
 The new level designs are all there but art and story is missing. In recent weeks Tom (artist) and I have made big strides towards these being in place. Lots of new art & effects have been finished and the next chapter of levels is getting much closer now. Though to be fair not many people have finished the available levels in the beta anyway...
 
 Hmm, did I make it too hard?
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1121778782371753985) | [facebook](https://www.facebook.com/bigabgames/posts/2409944599092913)
