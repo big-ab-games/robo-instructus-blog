@@ -33,3 +33,5 @@ I'm keen to do as I can to make high quality localized versions of Robo Instruct
 The game story though is much longer and more difficult to handle. There may be an option of having sort of in-game machine translations for the story, as if you've discovered a colony that speaks a foreign language and you have to use your translation tools. I'll look into this though I do wonder if it'll actually appeal to many.
 
 I do think having a good interface translation has value, even if the rest of the game remains in English. With a little help I don't see why the game can't have decent UI localization for every language I can render.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1124371905249710085) | [facebook](https://www.facebook.com/bigabgames/posts/2421686491252057)
