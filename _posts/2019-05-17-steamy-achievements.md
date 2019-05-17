@@ -84,3 +84,5 @@ This is the first time I've had to deal with bindings to C/C++ and as I haven't 
 
 ### Release plans
 The Q3 release of the game is looming, which will mean the end of the beta. So beta testers; start unlocking those achievements.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1129425315917422592) | [facebook](https://www.facebook.com/bigabgames/posts/2445288992225140)
