@@ -18,3 +18,5 @@ In early March a little under 3000 people signed up to help test Robo Instructus
 Ok, not every issue raised has been resolved. You can see this over on the [issue tracker](https://github.com/big-ab-games/robo-instructus/issues). However, no known nasty bugs exist and most of the most pressing improvements are now implemented. Let me know if you think some real show-stoppers still exist! The rest of the improvements and investigations will be punted to "later".
 
 This means we have around 1 more month of beta testing time, a good time to give the game a go if you signed up in March but never fired her up.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1131965885898514432) | [facebook](https://www.facebook.com/bigabgames/posts/2457903710963668)
