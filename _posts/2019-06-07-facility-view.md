@@ -29,3 +29,5 @@ If you've sent me feedback on the beta or helped with translations you should be
 ![](/assets/2019-06-07/credits-menu.jpg)
 
 The game release announcements with release date will be coming soon. Not long now at all!
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1136957362256957440f) | [facebook](https://www.facebook.com/bigabgames/posts/2483424741744898)
