@@ -22,3 +22,5 @@ Also back in earlier versions there used to be a breakdown of the time score by 
 I've also been working on a demo version of the game. I like demos they provide a nice try-before-you-buy experience for people that can answer lots of questions. _Will it run on my machine? Will I like it?_ Demos also just lower the barrier to entry by removing the price, maybe people will be less likely to leave the game languishing on a wishlist and actually try it out.
 
 The demo is the first 4 levels of the game and will be available soon.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1139482345898237952) | [facebook](https://www.facebook.com/bigabgames/posts/2496572570430115)
