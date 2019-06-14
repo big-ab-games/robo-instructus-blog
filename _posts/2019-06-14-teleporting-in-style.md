@@ -2,7 +2,7 @@
 preface: robo-2
 excerpt_separator: <!--more-->
 ---
-The **beta-3.2** update for Robo Instructus comes out today. It brings 3 new features to polish the game looking forward to the upcoming release. First and most obvious is the new teleportation effects.
+The [**beta-3.2** update](https://github.com/big-ab-games/robo-instructus/releases/tag/beta-3.2) for Robo Instructus comes out today. It brings 3 new features to polish the game looking forward to the upcoming release. First and most obvious is the new teleportation effects.
 
 <video src="/assets/2019-06-14/teleport.mp4" loop autoplay muted></video>
 <!--more-->
