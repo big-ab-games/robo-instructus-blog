@@ -35,3 +35,5 @@ To ease this issue while you cannot get a score without solving all stages, incl
 Oh yeah the game is releasing soon too. 16th July. Hopefully we'll start seeing reviews and stuff about the game in the next month. Please wishlist the game on Steam to help it's visibility there.
 
 **Beta-3.3** brings a bunch of performance optimizations and improvements to things like window resizing too. So I am polishing & removing the game's hard edges. I'll continue to do this as the release approaches.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1142037787836932096) | [facebook](https://www.facebook.com/bigabgames/posts/2509857912434914)
