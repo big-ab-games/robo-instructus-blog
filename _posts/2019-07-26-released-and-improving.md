@@ -48,3 +48,5 @@ You want to know if I'm a millionaire now my game's out huh? Well I'm as baffled
 ![](/assets/2019-07-26/ways-to-get-rich.jpg "Hmmm I don't see what I'm doing wrong...")
 
 The game has got a bunch of sales, most strongly in USA, Russia & Germany. Then UK... _4th place UK come on? And after I came from you!_ There are people really playing my programming game and that's just amazing, even though I've had to cancel all my yacht orders.
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1154750278568226816) | [facebook](https://www.facebook.com/bigabgames/posts/2573953202692051)
