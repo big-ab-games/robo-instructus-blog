@@ -45,4 +45,6 @@ It is interesting to see these extremely bad scores, but it also harms the abili
 ## So how did the release go then?
 You want to know if I'm a millionaire now my game's out huh? Well I'm as baffled writing this as I'm sure you are reading it, but the answer is **no**. The first week after release was a bit mixed, one one hand the game was on the front page of Steam for over 24 hours and this is a huge deal, on the other hand Robo Instructus has unfortunately been largely ignored by the mainstream press.
 
+![](/assets/2019-07-26/ways-to-get-rich.jpg "Hmmm I don't see what I'm doing wrong...")
+
 The game has got a bunch of sales, most strongly in USA, Russia & Germany. Then UK... _4th place UK come on? And after I came from you!_ There are people really playing my programming game and that's just amazing, even though I've had to cancel all my yacht orders.
