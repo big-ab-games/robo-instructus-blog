@@ -30,3 +30,5 @@ I settled on tracking the global lowest score anyone has achieved and including 
 ![](/assets/2019-08-02/capped.jpg "Yep, you can solve this level with a solution size of 4 phrases. The other two are perfect though so chin up!")
 
 In the early levels it'll much more clearly show you that yes your solution actually was optimal and it's nice to see just how low people can get the scores even when yours isn't the lowest (this is most of the time for me).
+
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1157330395320541184) | [facebook](https://www.facebook.com/bigabgames/posts/2587119501375421)
