@@ -1,6 +1,6 @@
 ---
 preface: robo-3
-title: "Otf Font Rendering or: How I Should Have Learned To Stop Worrying And Love The TTF"
+title: "Otf Font Rendering or: How I Should Have Learned To Stop Worrying And Love The Ttf"
 excerpt_separator: <!--more-->
 ---
 While developing Robo Instructus I spent an inordinate amount of time messing about with text rendering. After releasing the game last year, I'd thought my time diving into the glyph filled rabbit hole of _text_ would be over... This was not to be, my text-retirement came to an end with a thought:
