@@ -69,4 +69,4 @@ You have to laugh at yourself when you've not only moved mountains to achieve th
 
 At the end of the day otf support is still nice to have in the stack. I hope others find it useful. And if you ask, did I use the Exo2.ttf or Exo2.otf in the end? The bloody **otf** one of course!
 
-<!-- ##### Comment on [twitter]() | [facebook]() -->
+##### Comment on [twitter](https://twitter.com/bigabgames/status/1264557215693918209)
