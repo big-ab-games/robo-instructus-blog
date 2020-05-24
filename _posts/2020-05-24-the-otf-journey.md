@@ -30,7 +30,7 @@ There were no complaints at the lack of cubic beziers in the games text. There w
 Except I didn't forget. This stuck in my mind as a crease in the sheet I couldn't flatten yet. I had a vague ambition to "solve" this after the game's release.
 
 ## The call to arms
-In mid 2019 [an issue](https://gitlab.redox-os.org/redox-os/rusttype/issues/137) in rusttype's repo about a new font parser crate [ttf-parser](https://github.com/RazrFalcon/ttf-parser) that could parse otf & ttf fonts. This presented a solution to half the problem, parsing the otf files properly.
+In mid 2019 [an issue](https://gitlab.redox-os.org/redox-os/rusttype/issues/137) appeared in rusttype's repo about a new font parser crate [ttf-parser](https://github.com/RazrFalcon/ttf-parser) that could parse otf & ttf fonts. This presented a solution to half the problem, parsing the otf files properly.
 
 When I tried migrating rusttype to ttf-parser I found more issues still. Just using it at all proved to be a challenge. I ended up having to handle a self-referential struct in rust, which isn't really very nice. Having to crack out the dreaded `unsafe` keyword is something I try to avoid if I can.
 
