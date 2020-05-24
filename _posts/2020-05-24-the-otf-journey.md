@@ -35,7 +35,7 @@ In mid 2019 [an issue](https://gitlab.redox-os.org/redox-os/rusttype/issues/137)
 When I tried migrating rusttype to ttf-parser I found more issues still. Just using it at all proved to be a challenge. I ended up having to handle a self-referential struct in rust, which isn't really very nice. Having to crack out the dreaded `unsafe` keyword is something I try to avoid if I can.
 
 ## Drawing cubic beziers
-Enventually I did solve those issues and get rusttype working using ttf-parser, but the issue of the cubic bezier remained. I realised I just didn't understand rusttype's rasterization code. I'd written regression tests for it, benchmarks to track performance. I'd optimised it removing hashing. But I'd never _really_ understood exactly what it was really doing.
+Enventually I did solve those issues and got rusttype working using ttf-parser, but the cubic bezier problem remained. I realised I just didn't understand rusttype's rasterization code. I'd written regression tests for it, benchmarks to track performance. I'd optimised it by removing hashing. But I'd never _really_ understood exactly what it was really doing.
 
 This is a problem if I want to try to draw a more complex curve. I started looking around elsewhere to see if this problem has been solved by cleverer people. I remembered reading about [font-rs](https://github.com/raphlinus/font-rs) and it's fast rasterization. When I dug into the code I found it didn't support cubic curves either, but it was much smaller & nicer code compared with rusttype's rasterization. I mean I didn't understand it 100% either, but at least there was _less_ of it.
 
