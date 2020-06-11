@@ -10,7 +10,7 @@ While developing Robo Instructus I spent an inordinate amount of time messing ab
 ![](/assets/2020-05-23/top.png "glyph_brush text rendering")
 <!--more-->
 
-Robo Instructus is quite a "low-level" game in terms of it's technology. It uses it's own custom OpenGL engine written in rust. If you make a game like this then rendering text is not solved for you. You have to roll up your sleeves or find a library. Back in 2017 the libs that were available weren't good enough in terms of features or performance. So I made my own [glyph_brush](https://github.com/alexheretic/glyph-brush). I wrote about some of the technical details of that in 2018.
+Robo Instructus is quite a "low-level" game in terms of its technology. It uses its own custom OpenGL engine written in rust. If you make a game like this then rendering text is not solved for you. You have to roll up your sleeves or find a library. Back in 2017 the libs that were available weren't good enough in terms of features or performance. So I made my own [glyph_brush](https://github.com/alexheretic/glyph-brush). I wrote about some of the technical details of that in 2018.
 * [Technical Look At Text Rendering In Robo Instructus](/2018/05/18/technical-look-at-text-rendering-in-robo-instructus.html)
 * [Faster Screen Text Rendering](/2018/05/25/technical-look-at-text-rendering-in-robo-instructus-ii.html)
 
@@ -37,7 +37,7 @@ When I tried migrating rusttype to ttf-parser I found more issues still. Just us
 ## Drawing cubic beziers
 Enventually I did solve those issues and got rusttype working using ttf-parser, but the cubic bezier problem remained. I realised I just didn't understand rusttype's rasterization code. I'd written regression tests for it, benchmarks to track performance. I'd optimised it by removing hashing. But I'd never _really_ understood exactly what it was really doing.
 
-This is a problem if I want to try to draw a more complex curve. I started looking around elsewhere to see if this problem has been solved by cleverer people. I remembered reading about [font-rs](https://github.com/raphlinus/font-rs) and it's fast rasterization. When I dug into the code I found it didn't support cubic curves either, but it was much smaller & nicer code compared with rusttype's rasterization. I mean I didn't understand it 100% either, but at least there was _less_ of it.
+This is a problem if I want to try to draw a more complex curve. I started looking around elsewhere to see if this problem has been solved by cleverer people. I remembered reading about [font-rs](https://github.com/raphlinus/font-rs) and its fast rasterization. When I dug into the code I found it didn't support cubic curves either, but it was much smaller & nicer code compared with rusttype's rasterization. I mean I didn't understand it 100% either, but at least there was _less_ of it.
 
 Rusttype was initially based on a c library [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) and I was also aware that this lib now supported otf. So I figured there must be some cubic curve logic in there somewhere... Yes what's this `stbtt__tesselate_cubic` that seems kinda cubic-y. If I squinted in the right way I could kinda see what it was doing too. It recursively approximated a cubic curve into lines.
 
