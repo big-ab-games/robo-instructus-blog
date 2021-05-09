@@ -7,7 +7,6 @@
   },
   "repository": "n/a",
   "homepage": "https://github.com/alex-butler-games/alex-butler-games.github.io#readme",
-  "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.26.13",
     "gulp": "^4.0.2"
