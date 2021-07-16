@@ -15,7 +15,7 @@ The updates also brought QoL improvements like auto-scrolling to code errors/whi
 
 | Sales by platform |  | In the last year |
 |---|---|---|
-| Steam | 3364 | 820 |
+| Steam | 3366 | 822 |
 | itch.io | 34 | 7 |
 
 The vast majority of sales continue to be on Steam.
@@ -23,7 +23,7 @@ The vast majority of sales continue to be on Steam.
 | Last year Steam sales by region |
 |---|---|
 | United States | 23% |
-| Russian Federation | 20% |
+| Russian Federation | 21% |
 | Germany | 9% |
 | France | 5% |
 | United Kingdom | 5% |
